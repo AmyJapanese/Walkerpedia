@@ -1,4 +1,4 @@
-#char/family/rogers 
+#char/family/rogers #org/ticktack
 # Rogers' Magic Cookin'
 
 ## 概要
