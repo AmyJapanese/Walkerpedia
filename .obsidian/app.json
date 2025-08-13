@@ -1,0 +1,10 @@
+{
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "promptDelete": false,
+  "smartIndentList": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "readableLineLength": true
+}
