@@ -1,0 +1,20 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@disable-auto-hide-header": false,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "https://www.pixiv.net/artworks/17923667",
+  "fancy-a-story@@theme-variant-dark": "fas-silver-dark",
+  "fancy-a-story@@fas-opposite-bg": false,
+  "fancy-a-story@@fas-skin-select": "fas-skin-art-deco",
+  "fancy-a-story@@fas-accessibility": false,
+  "fancy-a-story@@fas-sans-serif": false,
+  "fancy-a-story@@fas-bigger-font": false,
+  "fancy-a-story@@fas-bg-textures": true,
+  "fancy-a-story@@fas-callout-cite-alt": false,
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-obsidianbg"
+}

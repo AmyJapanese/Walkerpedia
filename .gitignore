@@ -1,18 +1,10 @@
-# OS junk
+# OS系ゴミファイル
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Obsidian: 端末依存・キャッシュ類
+# Obsidianの端末依存・キャッシュのみ無視
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
 .obsidian/cache/
-
-# プラグイン本体は重いので無視。ただし設定(data.json)とmanifestは残す
-.obsidian/plugins/**
-!.obsidian/plugins/**/data.json
-!.obsidian/plugins/**/manifest.json
-
-# もしテーマCSSスニペットを使うなら追跡したい（無視しない）
-# snippets/ は無視設定しない
