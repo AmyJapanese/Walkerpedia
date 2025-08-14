@@ -297,7 +297,18 @@
     "org/mmm": 10,
     "org/school": 11,
     "org/school/riverside": 1,
-    "org/school/montogomery": 2
+    "org/school/montogomery": 2,
+    "location/city": 2,
+    "location/state": 3,
+    "location/state/kansas": 1,
+    "location/state/missouri": 2,
+    "location/state/california": 3,
+    "org/school/luminous": 3,
+    "reference/magic": 3,
+    "reference/law": 4,
+    "char/family/calderon": 4,
+    "char/hollywood": 17,
+    "char/family/sakamoto": 5
   },
   "_version": 3
 }

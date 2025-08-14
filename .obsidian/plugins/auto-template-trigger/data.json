@@ -1,8 +1,8 @@
 {
   "folderSpecificTemplates": [
     {
-      "folderPath": "_Template",
-      "templateName": ""
+      "folderPath": "(Template",
+      "templateName": "エイリアス用"
     }
   ]
 }
