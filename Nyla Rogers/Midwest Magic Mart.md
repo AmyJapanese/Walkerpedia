@@ -2,6 +2,10 @@
 aliases:
   - MMM
 ---
+> [!quote] Midwest Magic Mart スローガン
+> *Magic in Every Meal*  
+> ——食卓に、毎日に、魔法を。
+
 
 #org/mmm
 # Midwest Magic Mart（MMM）

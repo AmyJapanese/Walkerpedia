@@ -1,12 +1,12 @@
 {
-  "cssTheme": "ITS Theme",
-  "accentColor": "",
+  "cssTheme": "VScodian",
+  "accentColor": "#0076cc",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "theme": "obsidian",
   "nativeMenus": false,
-  "interfaceFontFamily": "Yu Gothic",
-  "textFontFamily": "Yu Gothic",
-  "monospaceFontFamily": "Noto Sans JP",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "enabledCssSnippets": []
 }

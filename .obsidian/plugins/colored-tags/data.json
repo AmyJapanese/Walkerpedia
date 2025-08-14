@@ -308,7 +308,10 @@
     "reference/law": 4,
     "char/family/calderon": 4,
     "char/hollywood": 17,
-    "char/family/sakamoto": 5
+    "char/family/sakamoto": 5,
+    "org/school/lonestar": 4,
+    "location/state/texas": 4,
+    "char/andre": 18
   },
   "_version": 3
 }
