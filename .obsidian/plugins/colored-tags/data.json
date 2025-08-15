@@ -311,7 +311,9 @@
     "char/family/sakamoto": 5,
     "org/school/lonestar": 4,
     "location/state/texas": 4,
-    "char/andre": 18
+    "char/andre": 18,
+    "魔法は市民権だ": 100,
+    "reference/theory": 5
   },
   "_version": 3
 }
