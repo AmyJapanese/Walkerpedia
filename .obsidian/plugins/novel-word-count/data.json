@@ -68,249 +68,33 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "wizard & witch/魔法家電.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 630,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.1,
-      "characterCount": 1074,
-      "nonWhitespaceCharacterCount": 946,
-      "newlineCount": 55,
-      "readingTimeInMinutes": 1.3273962264150942,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754968404089,
-      "modifiedDate": 1755142230474,
-      "sizeInBytes": 2404,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.1,
-        "wordCount": 630,
-        "characterCount": 1074,
-        "nonWhitespaceCharacterCount": 946,
-        "newlineCount": 55
-      }
-    },
-    "wizard & witch/魔法使い.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 223,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7433333333333333,
-      "characterCount": 374,
-      "nonWhitespaceCharacterCount": 320,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.460188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754836683078,
-      "modifiedDate": 1754893748696,
-      "sizeInBytes": 850,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7433333333333333,
-        "wordCount": 223,
-        "characterCount": 374,
-        "nonWhitespaceCharacterCount": 320,
-        "newlineCount": 23
-      }
-    },
-    "wizard & witch/魔法の杖.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 603,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.01,
-      "characterCount": 897,
-      "nonWhitespaceCharacterCount": 803,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 1.2326037735849056,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755130434185,
-      "modifiedDate": 1755142236769,
-      "sizeInBytes": 2243,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.01,
-        "wordCount": 603,
-        "characterCount": 897,
-        "nonWhitespaceCharacterCount": 803,
-        "newlineCount": 42
-      }
-    },
-    "wizard & witch/laws/魔法免許.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 480,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6,
-      "characterCount": 890,
-      "nonWhitespaceCharacterCount": 778,
-      "newlineCount": 54,
-      "readingTimeInMinutes": 0.9901509433962264,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754975901066,
-      "modifiedDate": 1755142219934,
-      "sizeInBytes": 1954,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6,
-        "wordCount": 480,
-        "characterCount": 890,
-        "nonWhitespaceCharacterCount": 778,
-        "newlineCount": 54
-      }
-    },
-    "wizard & witch/laws/魔法の法規制.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 553,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8433333333333333,
-      "characterCount": 823,
-      "nonWhitespaceCharacterCount": 700,
-      "newlineCount": 43,
-      "readingTimeInMinutes": 1.1166415094339623,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754975683976,
-      "modifiedDate": 1755142215507,
-      "sizeInBytes": 2047,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8433333333333333,
-        "wordCount": 553,
-        "characterCount": 823,
-        "nonWhitespaceCharacterCount": 700,
-        "newlineCount": 43
-      }
-    },
-    "wizard & witch/Broom/ブルームサッカー.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 742,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.473333333333333,
-      "characterCount": 1033,
-      "nonWhitespaceCharacterCount": 934,
-      "newlineCount": 59,
-      "readingTimeInMinutes": 1.5531698113207546,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754881976362,
-      "modifiedDate": 1755142211505,
-      "sizeInBytes": 2617,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.473333333333333,
-        "wordCount": 742,
-        "characterCount": 1033,
-        "nonWhitespaceCharacterCount": 934,
-        "newlineCount": 59
-      }
-    },
-    "wizard & witch/Broom/アメリカにおける箒.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 351,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.17,
-      "characterCount": 482,
-      "nonWhitespaceCharacterCount": 436,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.7321509433962264,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754881013386,
-      "modifiedDate": 1755142208837,
-      "sizeInBytes": 1236,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.17,
-        "wordCount": 351,
-        "characterCount": 482,
-        "nonWhitespaceCharacterCount": 436,
-        "newlineCount": 23
-      }
-    },
-    "Ted Marson/テッド・マーソン.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 665,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.216666666666667,
-      "characterCount": 976,
-      "nonWhitespaceCharacterCount": 892,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 1.372566037735849,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754973517146,
-      "modifiedDate": 1755142203486,
-      "sizeInBytes": 2412,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.216666666666667,
-        "wordCount": 665,
-        "characterCount": 976,
-        "nonWhitespaceCharacterCount": 892,
-        "newlineCount": 49
-      }
-    },
     "Riverside/リバーサイド魔法学校.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 724,
+      "wordCount": 780,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4133333333333336,
-      "characterCount": 1065,
-      "nonWhitespaceCharacterCount": 937,
-      "newlineCount": 60,
-      "readingTimeInMinutes": 1.4728301886792452,
-      "linkCount": 5,
+      "pageCount": 2.6,
+      "characterCount": 1160,
+      "nonWhitespaceCharacterCount": 1025,
+      "newlineCount": 63,
+      "readingTimeInMinutes": 1.5936981132075472,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": [
         "リバーサイド"
       ],
       "createdDate": 1754894164910,
-      "modifiedDate": 1755142191075,
-      "sizeInBytes": 2668,
+      "modifiedDate": 1755192531683,
+      "sizeInBytes": 2885,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.4133333333333336,
-        "wordCount": 724,
-        "characterCount": 1065,
-        "nonWhitespaceCharacterCount": 937,
-        "newlineCount": 60
+        "pageCount": 2.6,
+        "wordCount": 780,
+        "characterCount": 1160,
+        "nonWhitespaceCharacterCount": 1025,
+        "newlineCount": 63
       },
       "frontmatter": {
         "aliases": [
@@ -326,52 +110,79 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.3333333333333335,
-      "characterCount": 1261,
-      "nonWhitespaceCharacterCount": 1138,
+      "characterCount": 1265,
+      "nonWhitespaceCharacterCount": 1142,
       "newlineCount": 61,
       "readingTimeInMinutes": 1.4780377358490566,
-      "linkCount": 5,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755128140394,
-      "modifiedDate": 1755142183332,
-      "sizeInBytes": 2745,
+      "modifiedDate": 1755192524683,
+      "sizeInBytes": 2749,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.3333333333333335,
         "wordCount": 700,
-        "characterCount": 1261,
-        "nonWhitespaceCharacterCount": 1138,
+        "characterCount": 1265,
+        "nonWhitespaceCharacterCount": 1142,
         "newlineCount": 61
+      }
+    },
+    "Ted Marson/テッド・マーソン.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 733,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4433333333333334,
+      "characterCount": 1075,
+      "nonWhitespaceCharacterCount": 981,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.5156603773584905,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754973517146,
+      "modifiedDate": 1755190224052,
+      "sizeInBytes": 2657,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4433333333333334,
+        "wordCount": 733,
+        "characterCount": 1075,
+        "nonWhitespaceCharacterCount": 981,
+        "newlineCount": 53
       }
     },
     "Nyla Rogers/ナイラ・ロジャーズ.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 515,
+      "wordCount": 567,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7166666666666666,
-      "characterCount": 809,
-      "nonWhitespaceCharacterCount": 732,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 1.0832075471698113,
-      "linkCount": 9,
+      "pageCount": 1.89,
+      "characterCount": 889,
+      "nonWhitespaceCharacterCount": 805,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 1.1960754716981132,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": [
         "ナイラ"
       ],
       "createdDate": 1754835704846,
-      "modifiedDate": 1755142164789,
-      "sizeInBytes": 1919,
+      "modifiedDate": 1755190225875,
+      "sizeInBytes": 2117,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.7166666666666666,
-        "wordCount": 515,
-        "characterCount": 809,
-        "nonWhitespaceCharacterCount": 732,
-        "newlineCount": 34
+        "pageCount": 1.89,
+        "wordCount": 567,
+        "characterCount": 889,
+        "nonWhitespaceCharacterCount": 805,
+        "newlineCount": 37
       },
       "frontmatter": {
         "aliases": [
@@ -379,33 +190,60 @@
         ]
       }
     },
+    "Nyla Rogers/Rogers' Magic Cookin'.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 740,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.466666666666667,
+      "characterCount": 1177,
+      "nonWhitespaceCharacterCount": 1041,
+      "newlineCount": 58,
+      "readingTimeInMinutes": 1.5473962264150942,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754894966658,
+      "modifiedDate": 1755187522560,
+      "sizeInBytes": 2798,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.466666666666667,
+        "wordCount": 740,
+        "characterCount": 1177,
+        "nonWhitespaceCharacterCount": 1041,
+        "newlineCount": 58
+      }
+    },
     "Nyla Rogers/ジョシュア・ロジャーズ.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 701,
+      "wordCount": 742,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.3366666666666664,
-      "characterCount": 1090,
-      "nonWhitespaceCharacterCount": 957,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 1.4623018867924529,
+      "pageCount": 2.473333333333333,
+      "characterCount": 1147,
+      "nonWhitespaceCharacterCount": 1004,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.5443018867924527,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": [
         "ジョッシュ"
       ],
       "createdDate": 1754895948918,
-      "modifiedDate": 1755142147173,
-      "sizeInBytes": 2648,
+      "modifiedDate": 1755276857056,
+      "sizeInBytes": 2795,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.3366666666666664,
-        "wordCount": 701,
-        "characterCount": 1090,
-        "nonWhitespaceCharacterCount": 957,
-        "newlineCount": 49
+        "pageCount": 2.473333333333333,
+        "wordCount": 742,
+        "characterCount": 1147,
+        "nonWhitespaceCharacterCount": 1004,
+        "newlineCount": 53
       },
       "frontmatter": {
         "aliases": [
@@ -413,60 +251,33 @@
         ]
       }
     },
-    "Nyla Rogers/Rogers' Magic Cookin'.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 708,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.36,
-      "characterCount": 1126,
-      "nonWhitespaceCharacterCount": 996,
-      "newlineCount": 55,
-      "readingTimeInMinutes": 1.4798490566037736,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754894966658,
-      "modifiedDate": 1755142132217,
-      "sizeInBytes": 2677,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.36,
-        "wordCount": 708,
-        "characterCount": 1126,
-        "nonWhitespaceCharacterCount": 996,
-        "newlineCount": 55
-      }
-    },
     "Nyla Rogers/Midwest Magic Mart.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 592,
+      "wordCount": 614,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9733333333333334,
-      "characterCount": 984,
-      "nonWhitespaceCharacterCount": 873,
-      "newlineCount": 57,
-      "readingTimeInMinutes": 1.2602641509433963,
+      "pageCount": 2.046666666666667,
+      "characterCount": 1080,
+      "nonWhitespaceCharacterCount": 953,
+      "newlineCount": 60,
+      "readingTimeInMinutes": 1.3202264150943397,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": [
         "MMM"
       ],
       "createdDate": 1754969033957,
-      "modifiedDate": 1755142128043,
-      "sizeInBytes": 2276,
+      "modifiedDate": 1755276865336,
+      "sizeInBytes": 2410,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9733333333333334,
-        "wordCount": 592,
-        "characterCount": 984,
-        "nonWhitespaceCharacterCount": 873,
-        "newlineCount": 57
+        "pageCount": 2.046666666666667,
+        "wordCount": 614,
+        "characterCount": 1080,
+        "nonWhitespaceCharacterCount": 953,
+        "newlineCount": 60
       },
       "frontmatter": {
         "aliases": [
@@ -474,34 +285,132 @@
         ]
       }
     },
+    "Northwind/イライジャ・ノースウィンド.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 925,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.0833333333333335,
+      "characterCount": 1528,
+      "nonWhitespaceCharacterCount": 1366,
+      "newlineCount": 81,
+      "readingTimeInMinutes": 1.9191698113207547,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": [
+        "ノースウィンド"
+      ],
+      "createdDate": 1755189547485,
+      "modifiedDate": 1755190400806,
+      "sizeInBytes": 3646,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.0833333333333335,
+        "wordCount": 925,
+        "characterCount": 1528,
+        "nonWhitespaceCharacterCount": 1366,
+        "newlineCount": 81
+      },
+      "frontmatter": {
+        "aliases": [
+          "ノースウィンド"
+        ]
+      }
+    },
+    "Northwind/聖フィロメナの教会.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 805,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.683333333333333,
+      "characterCount": 1298,
+      "nonWhitespaceCharacterCount": 1138,
+      "newlineCount": 82,
+      "readingTimeInMinutes": 1.6578867924528302,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755190267081,
+      "modifiedDate": 1755193515049,
+      "sizeInBytes": 3096,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.683333333333333,
+        "wordCount": 805,
+        "characterCount": 1298,
+        "nonWhitespaceCharacterCount": 1138,
+        "newlineCount": 82
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Northwind/アンドレ・サルベ.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 934,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.1133333333333333,
+      "characterCount": 1553,
+      "nonWhitespaceCharacterCount": 1381,
+      "newlineCount": 86,
+      "readingTimeInMinutes": 1.9424905660377358,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": [
+        "アンドレ"
+      ],
+      "createdDate": 1755189877168,
+      "modifiedDate": 1755190670370,
+      "sizeInBytes": 3700,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.1133333333333333,
+        "wordCount": 934,
+        "characterCount": 1553,
+        "nonWhitespaceCharacterCount": 1381,
+        "newlineCount": 86
+      },
+      "frontmatter": {
+        "aliases": [
+          "アンドレ"
+        ]
+      }
+    },
     "Northwind/北風戦争.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 605,
+      "wordCount": 659,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.0166666666666666,
-      "characterCount": 853,
-      "nonWhitespaceCharacterCount": 772,
-      "newlineCount": 50,
-      "readingTimeInMinutes": 1.2419245283018867,
-      "linkCount": 3,
+      "pageCount": 2.1966666666666668,
+      "characterCount": 947,
+      "nonWhitespaceCharacterCount": 856,
+      "newlineCount": 54,
+      "readingTimeInMinutes": 1.355245283018868,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": [
         "北風事件",
         "北風危機"
       ],
       "createdDate": 1754892518330,
-      "modifiedDate": 1755142087694,
-      "sizeInBytes": 2231,
+      "modifiedDate": 1755192476716,
+      "sizeInBytes": 2445,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.0166666666666666,
-        "wordCount": 605,
-        "characterCount": 853,
-        "nonWhitespaceCharacterCount": 772,
-        "newlineCount": 50
+        "pageCount": 2.1966666666666668,
+        "wordCount": 659,
+        "characterCount": 947,
+        "nonWhitespaceCharacterCount": 856,
+        "newlineCount": 54
       },
       "frontmatter": {
         "aliases": [
@@ -510,93 +419,93 @@
         ]
       }
     },
-    "Missouri/ランタン通り.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 750,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5,
-      "characterCount": 1229,
-      "nonWhitespaceCharacterCount": 1093,
-      "newlineCount": 54,
-      "readingTimeInMinutes": 1.5833584905660376,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755130817028,
-      "modifiedDate": 1755142113629,
-      "sizeInBytes": 2814,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5,
-        "wordCount": 750,
-        "characterCount": 1229,
-        "nonWhitespaceCharacterCount": 1093,
-        "newlineCount": 54
-      },
-      "frontmatter": {
-        "aliases": []
-      }
-    },
     "Missouri/シダーブルック.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 562,
+      "wordCount": 620,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8733333333333333,
-      "characterCount": 824,
-      "nonWhitespaceCharacterCount": 745,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 1.1594716981132076,
-      "linkCount": 2,
+      "pageCount": 2.066666666666667,
+      "characterCount": 912,
+      "nonWhitespaceCharacterCount": 824,
+      "newlineCount": 52,
+      "readingTimeInMinutes": 1.2843396226415094,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755129920685,
-      "modifiedDate": 1755142064880,
-      "sizeInBytes": 2042,
+      "modifiedDate": 1755192424845,
+      "sizeInBytes": 2254,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.8733333333333333,
-        "wordCount": 562,
-        "characterCount": 824,
-        "nonWhitespaceCharacterCount": 745,
-        "newlineCount": 49
+        "pageCount": 2.066666666666667,
+        "wordCount": 620,
+        "characterCount": 912,
+        "nonWhitespaceCharacterCount": 824,
+        "newlineCount": 52
       },
       "frontmatter": {
         "aliases": null
+      }
+    },
+    "Missouri/ランタン通り.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1169,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.8966666666666665,
+      "characterCount": 1857,
+      "nonWhitespaceCharacterCount": 1640,
+      "newlineCount": 81,
+      "readingTimeInMinutes": 2.4461886792452834,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755130817028,
+      "modifiedDate": 1755251046501,
+      "sizeInBytes": 4342,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.8966666666666665,
+        "wordCount": 1169,
+        "characterCount": 1857,
+        "nonWhitespaceCharacterCount": 1640,
+        "newlineCount": 81
+      },
+      "frontmatter": {
+        "aliases": []
       }
     },
     "Marco Calderon/マルコ・カルデロン.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 577,
+      "wordCount": 600,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9233333333333333,
-      "characterCount": 875,
-      "nonWhitespaceCharacterCount": 808,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 1.1930188679245284,
+      "pageCount": 2,
+      "characterCount": 917,
+      "nonWhitespaceCharacterCount": 844,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 1.242566037735849,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": [
         "マルコ"
       ],
       "createdDate": 1755139593300,
-      "modifiedDate": 1755142042489,
-      "sizeInBytes": 2195,
+      "modifiedDate": 1755187254593,
+      "sizeInBytes": 2291,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9233333333333333,
-        "wordCount": 577,
-        "characterCount": 875,
-        "nonWhitespaceCharacterCount": 808,
-        "newlineCount": 37
+        "pageCount": 2,
+        "wordCount": 600,
+        "characterCount": 917,
+        "nonWhitespaceCharacterCount": 844,
+        "newlineCount": 40
       },
       "frontmatter": {
         "aliases": [
@@ -608,29 +517,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 590,
+      "wordCount": 656,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9666666666666666,
-      "characterCount": 875,
-      "nonWhitespaceCharacterCount": 784,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 1.213698113207547,
-      "linkCount": 5,
+      "pageCount": 2.1866666666666665,
+      "characterCount": 979,
+      "nonWhitespaceCharacterCount": 877,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 1.349245283018868,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": [
         "エステバン"
       ],
       "createdDate": 1755139555627,
-      "modifiedDate": 1755142029311,
-      "sizeInBytes": 2205,
+      "modifiedDate": 1755190221484,
+      "sizeInBytes": 2465,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9666666666666666,
-        "wordCount": 590,
-        "characterCount": 875,
-        "nonWhitespaceCharacterCount": 784,
-        "newlineCount": 38
+        "pageCount": 2.1866666666666665,
+        "wordCount": 656,
+        "characterCount": 979,
+        "nonWhitespaceCharacterCount": 877,
+        "newlineCount": 42
       },
       "frontmatter": {
         "aliases": [
@@ -642,14 +551,14 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 429,
+      "wordCount": 473,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.43,
-      "characterCount": 640,
-      "nonWhitespaceCharacterCount": 576,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.8704150943396226,
+      "pageCount": 1.5766666666666667,
+      "characterCount": 711,
+      "nonWhitespaceCharacterCount": 638,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 0.9619622641509434,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": [
@@ -657,15 +566,15 @@
         "マルコのばあちゃん"
       ],
       "createdDate": 1755139993129,
-      "modifiedDate": 1755142023604,
-      "sizeInBytes": 1639,
+      "modifiedDate": 1755187215070,
+      "sizeInBytes": 1820,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.43,
-        "wordCount": 429,
-        "characterCount": 640,
-        "nonWhitespaceCharacterCount": 576,
-        "newlineCount": 31
+        "pageCount": 1.5766666666666667,
+        "wordCount": 473,
+        "characterCount": 711,
+        "nonWhitespaceCharacterCount": 638,
+        "newlineCount": 34
       },
       "frontmatter": {
         "aliases": [
@@ -682,22 +591,22 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.9233333333333333,
-      "characterCount": 3356,
-      "nonWhitespaceCharacterCount": 1721,
+      "characterCount": 3360,
+      "nonWhitespaceCharacterCount": 1725,
       "newlineCount": 55,
       "readingTimeInMinutes": 2.522490566037736,
-      "linkCount": 38,
+      "linkCount": 39,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754983837532,
-      "modifiedDate": 1755146386023,
-      "sizeInBytes": 5880,
+      "modifiedDate": 1755186605537,
+      "sizeInBytes": 5884,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.9233333333333333,
         "wordCount": 1177,
-        "characterCount": 3356,
-        "nonWhitespaceCharacterCount": 1721,
+        "characterCount": 3360,
+        "nonWhitespaceCharacterCount": 1725,
         "newlineCount": 55
       }
     },
@@ -705,27 +614,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 481,
+      "wordCount": 507,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6033333333333333,
-      "characterCount": 639,
-      "nonWhitespaceCharacterCount": 598,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.976188679245283,
-      "linkCount": 1,
+      "pageCount": 1.69,
+      "characterCount": 695,
+      "nonWhitespaceCharacterCount": 647,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 1.0352830188679245,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754986495508,
-      "modifiedDate": 1755130595243,
-      "sizeInBytes": 1705,
+      "modifiedDate": 1755197685007,
+      "sizeInBytes": 1811,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.6033333333333333,
-        "wordCount": 481,
-        "characterCount": 639,
-        "nonWhitespaceCharacterCount": 598,
-        "newlineCount": 23
+        "pageCount": 1.69,
+        "wordCount": 507,
+        "characterCount": 695,
+        "nonWhitespaceCharacterCount": 647,
+        "newlineCount": 27
       }
     },
     "Magic School/states/ルイジアナ（クレセントシティ）.md": {
@@ -872,6 +781,42 @@
         ]
       }
     },
+    "Magic School/states/マサチューセッツ（ボストン）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 334,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1133333333333333,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 453,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.6946037735849057,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "ボストン",
+        "ボストン・アカデミー・オブ・アーケイン・サイエンス"
+      ],
+      "createdDate": 1754990495575,
+      "modifiedDate": 1755192391736,
+      "sizeInBytes": 1346,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1133333333333333,
+        "wordCount": 334,
+        "characterCount": 513,
+        "nonWhitespaceCharacterCount": 453,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "aliases": [
+          "ボストン",
+          "ボストン・アカデミー・オブ・アーケイン・サイエンス"
+        ]
+      }
+    },
     "Magic School/states/ミネソタ（フロストバレー）.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -905,42 +850,6 @@
         "aliases": [
           "フロストバレー",
           "フロストバレー魔法学院"
-        ]
-      }
-    },
-    "Magic School/states/ミシシッピ（デルタ）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 363,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.21,
-      "characterCount": 526,
-      "nonWhitespaceCharacterCount": 472,
-      "newlineCount": 24,
-      "readingTimeInMinutes": 0.7508301886792452,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "ミシシッピ・デルタ",
-        "ミシシッピ・デルタ魔法学院"
-      ],
-      "createdDate": 1755060609495,
-      "modifiedDate": 1755141906967,
-      "sizeInBytes": 1376,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.21,
-        "wordCount": 363,
-        "characterCount": 526,
-        "nonWhitespaceCharacterCount": 472,
-        "newlineCount": 24
-      },
-      "frontmatter": {
-        "aliases": [
-          "ミシシッピ・デルタ",
-          "ミシシッピ・デルタ魔法学院"
         ]
       }
     },
@@ -980,39 +889,75 @@
         ]
       }
     },
-    "Magic School/states/マサチューセッツ（ボストン）.md": {
+    "Magic School/states/ミシシッピ（デルタ）.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 334,
+      "wordCount": 363,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1133333333333333,
-      "characterCount": 505,
-      "nonWhitespaceCharacterCount": 445,
+      "pageCount": 1.21,
+      "characterCount": 526,
+      "nonWhitespaceCharacterCount": 472,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.7508301886792452,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "ミシシッピ・デルタ",
+        "ミシシッピ・デルタ魔法学院"
+      ],
+      "createdDate": 1755060609495,
+      "modifiedDate": 1755141906967,
+      "sizeInBytes": 1376,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.21,
+        "wordCount": 363,
+        "characterCount": 526,
+        "nonWhitespaceCharacterCount": 472,
+        "newlineCount": 24
+      },
+      "frontmatter": {
+        "aliases": [
+          "ミシシッピ・デルタ",
+          "ミシシッピ・デルタ魔法学院"
+        ]
+      }
+    },
+    "Magic School/states/ノースダコタ（グレートプレーン）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 325,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0833333333333333,
+      "characterCount": 490,
+      "nonWhitespaceCharacterCount": 429,
       "newlineCount": 26,
-      "readingTimeInMinutes": 0.6946037735849057,
+      "readingTimeInMinutes": 0.6730566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "ボストン",
-        "ボストン・アカデミー・オブ・アーケイン・サイエンス"
+        "グレートプレーンズ",
+        "グレートプレーンズ精霊魔法学院"
       ],
-      "createdDate": 1754990495575,
-      "modifiedDate": 1755141884563,
-      "sizeInBytes": 1338,
+      "createdDate": 1755063383406,
+      "modifiedDate": 1755141834340,
+      "sizeInBytes": 1270,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1133333333333333,
-        "wordCount": 334,
-        "characterCount": 505,
-        "nonWhitespaceCharacterCount": 445,
+        "pageCount": 1.0833333333333333,
+        "wordCount": 325,
+        "characterCount": 490,
+        "nonWhitespaceCharacterCount": 429,
         "newlineCount": 26
       },
       "frontmatter": {
         "aliases": [
-          "ボストン",
-          "ボストン・アカデミー・オブ・アーケイン・サイエンス"
+          "グレートプレーンズ",
+          "グレートプレーンズ精霊魔法学院"
         ]
       }
     },
@@ -1085,42 +1030,6 @@
         "aliases": [
           "カイロア",
           "カイロア火山魔法学院"
-        ]
-      }
-    },
-    "Magic School/states/ノースダコタ（グレートプレーン）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 325,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0833333333333333,
-      "characterCount": 490,
-      "nonWhitespaceCharacterCount": 429,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.6730566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "グレートプレーンズ",
-        "グレートプレーンズ精霊魔法学院"
-      ],
-      "createdDate": 1755063383406,
-      "modifiedDate": 1755141834340,
-      "sizeInBytes": 1270,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0833333333333333,
-        "wordCount": 325,
-        "characterCount": 490,
-        "nonWhitespaceCharacterCount": 429,
-        "newlineCount": 26
-      },
-      "frontmatter": {
-        "aliases": [
-          "グレートプレーンズ",
-          "グレートプレーンズ精霊魔法学院"
         ]
       }
     },
@@ -1240,25 +1149,25 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.2266666666666666,
-      "characterCount": 538,
-      "nonWhitespaceCharacterCount": 478,
+      "characterCount": 542,
+      "nonWhitespaceCharacterCount": 482,
       "newlineCount": 26,
       "readingTimeInMinutes": 0.7714716981132075,
-      "linkCount": 1,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": [
         "ロズウェル",
         "ロズウェル・アカデミー・オブ・アーケイン・サイエンス"
       ],
       "createdDate": 1755062832893,
-      "modifiedDate": 1755141697970,
-      "sizeInBytes": 1413,
+      "modifiedDate": 1755192376831,
+      "sizeInBytes": 1417,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.2266666666666666,
         "wordCount": 368,
-        "characterCount": 538,
-        "nonWhitespaceCharacterCount": 478,
+        "characterCount": 542,
+        "nonWhitespaceCharacterCount": 482,
         "newlineCount": 26
       },
       "frontmatter": {
@@ -1304,78 +1213,6 @@
         ]
       }
     },
-    "Magic School/states/デラウェア（デルフィニウム）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 324,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.08,
-      "characterCount": 481,
-      "nonWhitespaceCharacterCount": 424,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.6604150943396226,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "デルフィニウム",
-        "デルフィニウム魔法法学院"
-      ],
-      "createdDate": 1754986022640,
-      "modifiedDate": 1755141647893,
-      "sizeInBytes": 1238,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.08,
-        "wordCount": 324,
-        "characterCount": 481,
-        "nonWhitespaceCharacterCount": 424,
-        "newlineCount": 25
-      },
-      "frontmatter": {
-        "aliases": [
-          "デルフィニウム",
-          "デルフィニウム魔法法学院"
-        ]
-      }
-    },
-    "Magic School/states/ニュージャージー（ゲート）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 360,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2,
-      "characterCount": 513,
-      "nonWhitespaceCharacterCount": 456,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.7536981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "アトランティック・ゲート",
-        "アトランティック・ゲート魔法学院"
-      ],
-      "createdDate": 1755062560012,
-      "modifiedDate": 1755141664073,
-      "sizeInBytes": 1369,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2,
-        "wordCount": 360,
-        "characterCount": 513,
-        "nonWhitespaceCharacterCount": 456,
-        "newlineCount": 25
-      },
-      "frontmatter": {
-        "aliases": [
-          "アトランティック・ゲート",
-          "アトランティック・ゲート魔法学院"
-        ]
-      }
-    },
     "Magic School/states/ニューハンプシャー（ホール）.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1412,39 +1249,39 @@
         ]
       }
     },
-    "Magic School/states/ジョージア（ポート・サバンナ）.md": {
+    "Magic School/states/デラウェア（デルフィニウム）.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 351,
+      "wordCount": 324,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.17,
-      "characterCount": 516,
-      "nonWhitespaceCharacterCount": 461,
-      "newlineCount": 24,
-      "readingTimeInMinutes": 0.7268301886792453,
-      "linkCount": 0,
+      "pageCount": 1.08,
+      "characterCount": 485,
+      "nonWhitespaceCharacterCount": 428,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.6604150943396226,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": [
-        "ポート・サバンナ",
-        "ポート・サバンナ魔法商業学院"
+        "デルフィニウム",
+        "デルフィニウム魔法法学院"
       ],
-      "createdDate": 1754987091668,
-      "modifiedDate": 1755141623375,
-      "sizeInBytes": 1344,
+      "createdDate": 1754986022640,
+      "modifiedDate": 1755193514142,
+      "sizeInBytes": 1242,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.17,
-        "wordCount": 351,
-        "characterCount": 516,
-        "nonWhitespaceCharacterCount": 461,
-        "newlineCount": 24
+        "pageCount": 1.08,
+        "wordCount": 324,
+        "characterCount": 485,
+        "nonWhitespaceCharacterCount": 428,
+        "newlineCount": 25
       },
       "frontmatter": {
         "aliases": [
-          "ポート・サバンナ",
-          "ポート・サバンナ魔法商業学院"
+          "デルフィニウム",
+          "デルフィニウム魔法法学院"
         ]
       }
     },
@@ -1484,76 +1321,6 @@
         ]
       }
     },
-    "Magic School/states/コネチカット（リバティ）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 368,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2266666666666666,
-      "characterCount": 530,
-      "nonWhitespaceCharacterCount": 474,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.750188679245283,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "リバティ魔法学院"
-      ],
-      "createdDate": 1754985672503,
-      "modifiedDate": 1755141597298,
-      "sizeInBytes": 1349,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2266666666666666,
-        "wordCount": 368,
-        "characterCount": 530,
-        "nonWhitespaceCharacterCount": 474,
-        "newlineCount": 25
-      },
-      "frontmatter": {
-        "aliases": [
-          "リバティ魔法学院"
-        ]
-      }
-    },
-    "Magic School/states/オクラホマ（レッドプレーンズ）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 318,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.06,
-      "characterCount": 468,
-      "nonWhitespaceCharacterCount": 411,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.6590566037735849,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "レッドプレーンズ",
-        "レッドプレーンズ魔法学院"
-      ],
-      "createdDate": 1755126493373,
-      "modifiedDate": 1755141521973,
-      "sizeInBytes": 1214,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.06,
-        "wordCount": 318,
-        "characterCount": 468,
-        "nonWhitespaceCharacterCount": 411,
-        "newlineCount": 25
-      },
-      "frontmatter": {
-        "aliases": [
-          "レッドプレーンズ",
-          "レッドプレーンズ魔法学院"
-        ]
-      }
-    },
     "Magic School/states/ケンタッキー（ブルーグラス）.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1587,6 +1354,112 @@
         "aliases": [
           "ブルーグラス",
           "ブルーグラス魔法畜産学院"
+        ]
+      }
+    },
+    "Magic School/states/ニュージャージー（ゲート）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 360,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 456,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.7536981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "アトランティック・ゲート",
+        "アトランティック・ゲート魔法学院"
+      ],
+      "createdDate": 1755062560012,
+      "modifiedDate": 1755141664073,
+      "sizeInBytes": 1369,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2,
+        "wordCount": 360,
+        "characterCount": 513,
+        "nonWhitespaceCharacterCount": 456,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "aliases": [
+          "アトランティック・ゲート",
+          "アトランティック・ゲート魔法学院"
+        ]
+      }
+    },
+    "Magic School/states/ジョージア（ポート・サバンナ）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 351,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.17,
+      "characterCount": 516,
+      "nonWhitespaceCharacterCount": 461,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.7268301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "ポート・サバンナ",
+        "ポート・サバンナ魔法商業学院"
+      ],
+      "createdDate": 1754987091668,
+      "modifiedDate": 1755141623375,
+      "sizeInBytes": 1344,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.17,
+        "wordCount": 351,
+        "characterCount": 516,
+        "nonWhitespaceCharacterCount": 461,
+        "newlineCount": 24
+      },
+      "frontmatter": {
+        "aliases": [
+          "ポート・サバンナ",
+          "ポート・サバンナ魔法商業学院"
+        ]
+      }
+    },
+    "Magic School/states/コネチカット（リバティ）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 368,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2266666666666666,
+      "characterCount": 530,
+      "nonWhitespaceCharacterCount": 474,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.750188679245283,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "リバティ魔法学院"
+      ],
+      "createdDate": 1754985672503,
+      "modifiedDate": 1755141597298,
+      "sizeInBytes": 1349,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2266666666666666,
+        "wordCount": 368,
+        "characterCount": 530,
+        "nonWhitespaceCharacterCount": 474,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "aliases": [
+          "リバティ魔法学院"
         ]
       }
     },
@@ -1626,6 +1499,42 @@
         ]
       }
     },
+    "Magic School/states/オクラホマ（レッドプレーンズ）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 318,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.06,
+      "characterCount": 468,
+      "nonWhitespaceCharacterCount": 411,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.6590566037735849,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "レッドプレーンズ",
+        "レッドプレーンズ魔法学院"
+      ],
+      "createdDate": 1755126493373,
+      "modifiedDate": 1755141521973,
+      "sizeInBytes": 1214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.06,
+        "wordCount": 318,
+        "characterCount": 468,
+        "nonWhitespaceCharacterCount": 411,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "aliases": [
+          "レッドプレーンズ",
+          "レッドプレーンズ魔法学院"
+        ]
+      }
+    },
     "Magic School/states/インディアナ（ホライゾン）.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1659,78 +1568,6 @@
         "aliases": [
           "ホライゾン・フィールド",
           "ホライゾン・フィールド魔法学院"
-        ]
-      }
-    },
-    "Magic School/states/イリノイ（シカゴタワー）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 386,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2866666666666666,
-      "characterCount": 528,
-      "nonWhitespaceCharacterCount": 475,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.7968301886792453,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "シカゴタワー",
-        "シカゴタワー魔法学院"
-      ],
-      "createdDate": 1754987819275,
-      "modifiedDate": 1755141453896,
-      "sizeInBytes": 1392,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2866666666666666,
-        "wordCount": 386,
-        "characterCount": 528,
-        "nonWhitespaceCharacterCount": 475,
-        "newlineCount": 23
-      },
-      "frontmatter": {
-        "aliases": [
-          "シカゴタワー",
-          "シカゴタワー魔法学院"
-        ]
-      }
-    },
-    "Magic School/states/アラバマ（モントゴメリー）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 328,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0933333333333333,
-      "characterCount": 474,
-      "nonWhitespaceCharacterCount": 431,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.6790566037735849,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "モントゴメリー",
-        "モントゴメリー魔法学院"
-      ],
-      "createdDate": 1754984174902,
-      "modifiedDate": 1755141418423,
-      "sizeInBytes": 1236,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0933333333333333,
-        "wordCount": 328,
-        "characterCount": 474,
-        "nonWhitespaceCharacterCount": 431,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "aliases": [
-          "モントゴメリー",
-          "モントゴメリー魔法学院"
         ]
       }
     },
@@ -1806,6 +1643,114 @@
         ]
       }
     },
+    "Magic School/states/イリノイ（シカゴタワー）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 386,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2866666666666666,
+      "characterCount": 536,
+      "nonWhitespaceCharacterCount": 483,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 0.7968301886792453,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "シカゴタワー",
+        "シカゴタワー魔法学院"
+      ],
+      "createdDate": 1754987819275,
+      "modifiedDate": 1755193512114,
+      "sizeInBytes": 1400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2866666666666666,
+        "wordCount": 386,
+        "characterCount": 536,
+        "nonWhitespaceCharacterCount": 483,
+        "newlineCount": 23
+      },
+      "frontmatter": {
+        "aliases": [
+          "シカゴタワー",
+          "シカゴタワー魔法学院"
+        ]
+      }
+    },
+    "Magic School/states/アラスカ（オーロラ）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 299,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 412,
+      "nonWhitespaceCharacterCount": 372,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.6192830188679245,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "オーロラ魔法学院",
+        "オーロラ"
+      ],
+      "createdDate": 1754984414030,
+      "modifiedDate": 1755192345695,
+      "sizeInBytes": 1086,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9966666666666667,
+        "wordCount": 299,
+        "characterCount": 412,
+        "nonWhitespaceCharacterCount": 372,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "aliases": [
+          "オーロラ魔法学院",
+          "オーロラ"
+        ]
+      }
+    },
+    "Magic School/states/アラバマ（モントゴメリー）.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 328,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0933333333333333,
+      "characterCount": 474,
+      "nonWhitespaceCharacterCount": 431,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.6790566037735849,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "モントゴメリー",
+        "モントゴメリー魔法学院"
+      ],
+      "createdDate": 1754984174902,
+      "modifiedDate": 1755141418423,
+      "sizeInBytes": 1236,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0933333333333333,
+        "wordCount": 328,
+        "characterCount": 474,
+        "nonWhitespaceCharacterCount": 431,
+        "newlineCount": 22
+      },
+      "frontmatter": {
+        "aliases": [
+          "モントゴメリー",
+          "モントゴメリー魔法学院"
+        ]
+      }
+    },
     "Magic School/states/アイダホ（パインリッジ）.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1839,42 +1784,6 @@
         "aliases": [
           "パインリッジ",
           "パインリッジ魔法農業学院"
-        ]
-      }
-    },
-    "Magic School/states/アラスカ（オーロラ）.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 299,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9966666666666667,
-      "characterCount": 408,
-      "nonWhitespaceCharacterCount": 368,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.6192830188679245,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "オーロラ魔法学院",
-        "オーロラ"
-      ],
-      "createdDate": 1754984414030,
-      "modifiedDate": 1755141404383,
-      "sizeInBytes": 1082,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9966666666666667,
-        "wordCount": 299,
-        "characterCount": 408,
-        "nonWhitespaceCharacterCount": 368,
-        "newlineCount": 20
-      },
-      "frontmatter": {
-        "aliases": [
-          "オーロラ魔法学院",
-          "オーロラ"
         ]
       }
     },
@@ -1914,6 +1823,405 @@
         ]
       }
     },
+    "Magic/theory/魔法理論.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 832,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.7733333333333334,
+      "characterCount": 1259,
+      "nonWhitespaceCharacterCount": 1142,
+      "newlineCount": 63,
+      "readingTimeInMinutes": 1.71011320754717,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755182952969,
+      "modifiedDate": 1755197271219,
+      "sizeInBytes": 3092,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.7733333333333334,
+        "wordCount": 832,
+        "characterCount": 1259,
+        "nonWhitespaceCharacterCount": 1142,
+        "newlineCount": 63
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/theory/根源エネルギー.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 893,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9766666666666666,
+      "characterCount": 1379,
+      "nonWhitespaceCharacterCount": 1248,
+      "newlineCount": 68,
+      "readingTimeInMinutes": 1.8392075471698113,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755190648344,
+      "modifiedDate": 1755197259254,
+      "sizeInBytes": 3407,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.9766666666666666,
+        "wordCount": 893,
+        "characterCount": 1379,
+        "nonWhitespaceCharacterCount": 1248,
+        "newlineCount": 68
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/theory/魔法工学.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 885,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.95,
+      "characterCount": 1453,
+      "nonWhitespaceCharacterCount": 1280,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 1.8178867924528301,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755190850012,
+      "modifiedDate": 1755197293173,
+      "sizeInBytes": 3483,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.95,
+        "wordCount": 885,
+        "characterCount": 1453,
+        "nonWhitespaceCharacterCount": 1280,
+        "newlineCount": 79
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/wands/銃魔法.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 702,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.34,
+      "characterCount": 1081,
+      "nonWhitespaceCharacterCount": 926,
+      "newlineCount": 68,
+      "readingTimeInMinutes": 1.4430188679245284,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755272528226,
+      "modifiedDate": 1755288555261,
+      "sizeInBytes": 2649,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.34,
+        "wordCount": 702,
+        "characterCount": 1081,
+        "nonWhitespaceCharacterCount": 926,
+        "newlineCount": 68
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/wands/魔法の杖.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1026,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.42,
+      "characterCount": 1830,
+      "nonWhitespaceCharacterCount": 1519,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 2.146,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755181231599,
+      "modifiedDate": 1755190815544,
+      "sizeInBytes": 4056,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.42,
+        "wordCount": 1026,
+        "characterCount": 1830,
+        "nonWhitespaceCharacterCount": 1519,
+        "newlineCount": 69
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/wands/杖の素材.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 918,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.06,
+      "characterCount": 1459,
+      "nonWhitespaceCharacterCount": 1294,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 1.8750188679245283,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755183353952,
+      "modifiedDate": 1755253862816,
+      "sizeInBytes": 3507,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.06,
+        "wordCount": 918,
+        "characterCount": 1459,
+        "nonWhitespaceCharacterCount": 1294,
+        "newlineCount": 69
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/wands/杖文化.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 651,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.17,
+      "characterCount": 998,
+      "nonWhitespaceCharacterCount": 896,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 1.3410188679245283,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755130434185,
+      "modifiedDate": 1755190805814,
+      "sizeInBytes": 2450,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.17,
+        "wordCount": 651,
+        "characterCount": 998,
+        "nonWhitespaceCharacterCount": 896,
+        "newlineCount": 46
+      }
+    },
+    "Magic/people/魔法適性.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 470,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5666666666666667,
+      "characterCount": 697,
+      "nonWhitespaceCharacterCount": 643,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 0.9666037735849057,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755193986835,
+      "modifiedDate": 1755194217383,
+      "sizeInBytes": 1735,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5666666666666667,
+        "wordCount": 470,
+        "characterCount": 697,
+        "nonWhitespaceCharacterCount": 643,
+        "newlineCount": 30
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "Magic/people/魔法使い.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 374,
+      "nonWhitespaceCharacterCount": 320,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 0.460188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754836683078,
+      "modifiedDate": 1754893748696,
+      "sizeInBytes": 850,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 374,
+        "nonWhitespaceCharacterCount": 320,
+        "newlineCount": 23
+      }
+    },
+    "Magic/society/魔法家電.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 630,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1,
+      "characterCount": 1074,
+      "nonWhitespaceCharacterCount": 946,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 1.3273962264150942,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754968404089,
+      "modifiedDate": 1755142230474,
+      "sizeInBytes": 2404,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1,
+        "wordCount": 630,
+        "characterCount": 1074,
+        "nonWhitespaceCharacterCount": 946,
+        "newlineCount": 55
+      }
+    },
+    "Magic/society/ブルームサッカー.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 742,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.473333333333333,
+      "characterCount": 1033,
+      "nonWhitespaceCharacterCount": 934,
+      "newlineCount": 59,
+      "readingTimeInMinutes": 1.5531698113207546,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754881976362,
+      "modifiedDate": 1755142211505,
+      "sizeInBytes": 2617,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.473333333333333,
+        "wordCount": 742,
+        "characterCount": 1033,
+        "nonWhitespaceCharacterCount": 934,
+        "newlineCount": 59
+      }
+    },
+    "Magic/laws/魔法免許.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 480,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6,
+      "characterCount": 890,
+      "nonWhitespaceCharacterCount": 778,
+      "newlineCount": 54,
+      "readingTimeInMinutes": 0.9901509433962264,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754975901066,
+      "modifiedDate": 1755142219934,
+      "sizeInBytes": 1954,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6,
+        "wordCount": 480,
+        "characterCount": 890,
+        "nonWhitespaceCharacterCount": 778,
+        "newlineCount": 54
+      }
+    },
+    "Magic/laws/魔法の法規制.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 553,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8433333333333333,
+      "characterCount": 823,
+      "nonWhitespaceCharacterCount": 700,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 1.1166415094339623,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754975683976,
+      "modifiedDate": 1755142215507,
+      "sizeInBytes": 2047,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8433333333333333,
+        "wordCount": 553,
+        "characterCount": 823,
+        "nonWhitespaceCharacterCount": 700,
+        "newlineCount": 43
+      }
+    },
+    "Magic/laws/アメリカにおける箒.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 388,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2933333333333332,
+      "characterCount": 553,
+      "nonWhitespaceCharacterCount": 501,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.8114716981132075,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754881013386,
+      "modifiedDate": 1755288869424,
+      "sizeInBytes": 1393,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2933333333333332,
+        "wordCount": 388,
+        "characterCount": 553,
+        "nonWhitespaceCharacterCount": 501,
+        "newlineCount": 26
+      }
+    },
     "Luminous/ルミナス魔法学校.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1945,57 +2253,64 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 981,
+      "wordCount": 1028,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.27,
-      "characterCount": 1502,
-      "nonWhitespaceCharacterCount": 1351,
-      "newlineCount": 75,
-      "readingTimeInMinutes": 2.022301886792453,
-      "linkCount": 6,
+      "pageCount": 3.4266666666666667,
+      "characterCount": 1585,
+      "nonWhitespaceCharacterCount": 1425,
+      "newlineCount": 80,
+      "readingTimeInMinutes": 2.1233962264150943,
+      "linkCount": 8,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "LAA"
+      ],
       "createdDate": 1754974138148,
-      "modifiedDate": 1755141350083,
-      "sizeInBytes": 3674,
+      "modifiedDate": 1755190226850,
+      "sizeInBytes": 3891,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.27,
-        "wordCount": 981,
-        "characterCount": 1502,
-        "nonWhitespaceCharacterCount": 1351,
-        "newlineCount": 75
+        "pageCount": 3.4266666666666667,
+        "wordCount": 1028,
+        "characterCount": 1585,
+        "nonWhitespaceCharacterCount": 1425,
+        "newlineCount": 80
+      },
+      "frontmatter": {
+        "aliases": [
+          "LAA"
+        ]
       }
     },
     "Kansas/プレーリーウィンズ魔法学院.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 369,
+      "wordCount": 427,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.23,
-      "characterCount": 535,
-      "nonWhitespaceCharacterCount": 480,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.7699245283018867,
-      "linkCount": 1,
+      "pageCount": 1.4233333333333333,
+      "characterCount": 623,
+      "nonWhitespaceCharacterCount": 562,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.8947924528301887,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": [
         "プレーリーウィンズ",
         "オズの魔法学校"
       ],
       "createdDate": 1754989043389,
-      "modifiedDate": 1755141506205,
-      "sizeInBytes": 1383,
+      "modifiedDate": 1755187070507,
+      "sizeInBytes": 1599,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.23,
-        "wordCount": 369,
-        "characterCount": 535,
-        "nonWhitespaceCharacterCount": 480,
-        "newlineCount": 25
+        "pageCount": 1.4233333333333333,
+        "wordCount": 427,
+        "characterCount": 623,
+        "nonWhitespaceCharacterCount": 562,
+        "newlineCount": 28
       },
       "frontmatter": {
         "aliases": [
@@ -2004,34 +2319,102 @@
         ]
       }
     },
+    "Lonestar/ローンスター魔法学院.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 754,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.513333333333333,
+      "characterCount": 1066,
+      "nonWhitespaceCharacterCount": 961,
+      "newlineCount": 54,
+      "readingTimeInMinutes": 1.5523396226415094,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "ローンスター"
+      ],
+      "createdDate": 1755186187632,
+      "modifiedDate": 1755186334834,
+      "sizeInBytes": 2709,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.513333333333333,
+        "wordCount": 754,
+        "characterCount": 1066,
+        "nonWhitespaceCharacterCount": 961,
+        "newlineCount": 54
+      },
+      "frontmatter": {
+        "aliases": [
+          "ローンスター"
+        ]
+      }
+    },
+    "Lonestar/クーパー・デリング.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 459,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.53,
+      "characterCount": 729,
+      "nonWhitespaceCharacterCount": 653,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.960566037735849,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "デリング"
+      ],
+      "createdDate": 1755186049974,
+      "modifiedDate": 1755288625278,
+      "sizeInBytes": 1760,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.53,
+        "wordCount": 459,
+        "characterCount": 729,
+        "nonWhitespaceCharacterCount": 653,
+        "newlineCount": 35
+      },
+      "frontmatter": {
+        "aliases": [
+          "デリング"
+        ]
+      }
+    },
     "K. Sakamoto/バックアイ魔法工科大学附属学院.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 351,
+      "wordCount": 529,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.17,
-      "characterCount": 520,
-      "nonWhitespaceCharacterCount": 460,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.7232830188679246,
-      "linkCount": 1,
+      "pageCount": 1.7633333333333334,
+      "characterCount": 775,
+      "nonWhitespaceCharacterCount": 691,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 1.0846037735849057,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": [
         "バックアイ",
         "バックアイ魔法工科大学附属学院"
       ],
       "createdDate": 1755126716887,
-      "modifiedDate": 1755141553194,
-      "sizeInBytes": 1332,
+      "modifiedDate": 1755253031370,
+      "sizeInBytes": 1977,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.17,
-        "wordCount": 351,
-        "characterCount": 520,
-        "nonWhitespaceCharacterCount": 460,
-        "newlineCount": 26
+        "pageCount": 1.7633333333333334,
+        "wordCount": 529,
+        "characterCount": 775,
+        "nonWhitespaceCharacterCount": 691,
+        "newlineCount": 37
       },
       "frontmatter": {
         "aliases": [
@@ -2044,30 +2427,30 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 522,
+      "wordCount": 565,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.74,
-      "characterCount": 752,
-      "nonWhitespaceCharacterCount": 668,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 1.0617358490566038,
-      "linkCount": 4,
+      "pageCount": 1.8833333333333333,
+      "characterCount": 821,
+      "nonWhitespaceCharacterCount": 731,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 1.1512830188679246,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": [
         "サミュエル",
         "魔法界のエジソン"
       ],
       "createdDate": 1755146331026,
-      "modifiedDate": 1755146499482,
-      "sizeInBytes": 1955,
+      "modifiedDate": 1755196492490,
+      "sizeInBytes": 2124,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.74,
-        "wordCount": 522,
-        "characterCount": 752,
-        "nonWhitespaceCharacterCount": 668,
-        "newlineCount": 35
+        "pageCount": 1.8833333333333333,
+        "wordCount": 565,
+        "characterCount": 821,
+        "nonWhitespaceCharacterCount": 731,
+        "newlineCount": 38
       },
       "frontmatter": {
         "aliases": [
@@ -2080,29 +2463,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 564,
+      "wordCount": 605,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.88,
-      "characterCount": 805,
-      "nonWhitespaceCharacterCount": 736,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 1.1616981132075472,
-      "linkCount": 6,
+      "pageCount": 2.0166666666666666,
+      "characterCount": 875,
+      "nonWhitespaceCharacterCount": 796,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 1.2490188679245282,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": [
         "ケイ"
       ],
       "createdDate": 1755146063938,
-      "modifiedDate": 1755146493764,
-      "sizeInBytes": 2088,
+      "modifiedDate": 1755187014106,
+      "sizeInBytes": 2250,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.88,
-        "wordCount": 564,
-        "characterCount": 805,
-        "nonWhitespaceCharacterCount": 736,
-        "newlineCount": 38
+        "pageCount": 2.0166666666666666,
+        "wordCount": 605,
+        "characterCount": 875,
+        "nonWhitespaceCharacterCount": 796,
+        "newlineCount": 43
       },
       "frontmatter": {
         "aliases": [
@@ -2110,33 +2493,303 @@
         ]
       }
     },
+    "America/アメリカ魔法界の社会構造.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 447,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.49,
+      "characterCount": 692,
+      "nonWhitespaceCharacterCount": 595,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.9117358490566038,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754878539218,
+      "modifiedDate": 1755186915899,
+      "sizeInBytes": 1660,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.49,
+        "wordCount": 447,
+        "characterCount": 692,
+        "nonWhitespaceCharacterCount": 595,
+        "newlineCount": 32
+      }
+    },
+    "America/南北戦争.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 846,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.82,
+      "characterCount": 1216,
+      "nonWhitespaceCharacterCount": 1100,
+      "newlineCount": 68,
+      "readingTimeInMinutes": 1.7381132075471697,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754891838317,
+      "modifiedDate": 1755186954122,
+      "sizeInBytes": 3050,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.82,
+        "wordCount": 846,
+        "characterCount": 1216,
+        "nonWhitespaceCharacterCount": 1100,
+        "newlineCount": 68
+      }
+    },
+    "America/アメリカ魔法年代記.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1025,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.4166666666666665,
+      "characterCount": 1498,
+      "nonWhitespaceCharacterCount": 1363,
+      "newlineCount": 77,
+      "readingTimeInMinutes": 2.144,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754892680247,
+      "modifiedDate": 1755288295214,
+      "sizeInBytes": 3740,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.4166666666666665,
+        "wordCount": 1025,
+        "characterCount": 1498,
+        "nonWhitespaceCharacterCount": 1363,
+        "newlineCount": 77
+      }
+    },
+    "America/rifles/アメリカの銃社会.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 640,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1333333333333333,
+      "characterCount": 958,
+      "nonWhitespaceCharacterCount": 846,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 1.3048301886792453,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755272076659,
+      "modifiedDate": 1755287500081,
+      "sizeInBytes": 2386,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1333333333333333,
+        "wordCount": 640,
+        "characterCount": 958,
+        "nonWhitespaceCharacterCount": 846,
+        "newlineCount": 51
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "America/rifles/メインキャラの銃事情.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 417,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.39,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 568,
+      "newlineCount": 47,
+      "readingTimeInMinutes": 0.8606037735849057,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755271823046,
+      "modifiedDate": 1755288479659,
+      "sizeInBytes": 1583,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.39,
+        "wordCount": 417,
+        "characterCount": 685,
+        "nonWhitespaceCharacterCount": 568,
+        "newlineCount": 47
+      },
+      "frontmatter": {
+        "aliases": null
+      }
+    },
+    "America/government/魔法省.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 519,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.73,
+      "characterCount": 828,
+      "nonWhitespaceCharacterCount": 754,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 1.0965283018867924,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "USDM"
+      ],
+      "createdDate": 1755193503726,
+      "modifiedDate": 1755287450350,
+      "sizeInBytes": 1967,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.73,
+        "wordCount": 519,
+        "characterCount": 828,
+        "nonWhitespaceCharacterCount": 754,
+        "newlineCount": 34
+      },
+      "frontmatter": {
+        "aliases": [
+          "USDM"
+        ]
+      }
+    },
+    "America/government/NAMC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 645,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.15,
+      "characterCount": 994,
+      "nonWhitespaceCharacterCount": 911,
+      "newlineCount": 39,
+      "readingTimeInMinutes": 1.3680377358490565,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "全米魔法使い市民教会"
+      ],
+      "createdDate": 1755193756476,
+      "modifiedDate": 1755286914449,
+      "sizeInBytes": 2415,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.15,
+        "wordCount": 645,
+        "characterCount": 994,
+        "nonWhitespaceCharacterCount": 911,
+        "newlineCount": 39
+      },
+      "frontmatter": {
+        "aliases": [
+          "全米魔法使い市民教会"
+        ]
+      }
+    },
+    "America/government/魔法警察.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 749,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4966666666666666,
+      "characterCount": 1313,
+      "nonWhitespaceCharacterCount": 1158,
+      "newlineCount": 63,
+      "readingTimeInMinutes": 1.5636226415094339,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "MCD"
+      ],
+      "createdDate": 1755192953042,
+      "modifiedDate": 1755287233860,
+      "sizeInBytes": 2985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4966666666666666,
+        "wordCount": 749,
+        "characterCount": 1313,
+        "nonWhitespaceCharacterCount": 1158,
+        "newlineCount": 63
+      },
+      "frontmatter": {
+        "aliases": [
+          "MCD"
+        ]
+      }
+    },
+    "Emily Walker/ウォーカー家の宗教観.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 590,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9666666666666666,
+      "characterCount": 826,
+      "nonWhitespaceCharacterCount": 747,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 1.2190188679245282,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754970434410,
+      "modifiedDate": 1755188172883,
+      "sizeInBytes": 2092,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9666666666666666,
+        "wordCount": 590,
+        "characterCount": 826,
+        "nonWhitespaceCharacterCount": 747,
+        "newlineCount": 40
+      }
+    },
     "Emily Walker/グレッグ・ウォーカー.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 725,
+      "wordCount": 759,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4166666666666665,
-      "characterCount": 1000,
-      "nonWhitespaceCharacterCount": 914,
-      "newlineCount": 46,
-      "readingTimeInMinutes": 1.5049811320754716,
+      "pageCount": 2.53,
+      "characterCount": 1053,
+      "nonWhitespaceCharacterCount": 961,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 1.5783018867924528,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": [
         "グレッグ"
       ],
       "createdDate": 1754974518080,
-      "modifiedDate": 1755147592254,
-      "sizeInBytes": 2589,
+      "modifiedDate": 1755186995607,
+      "sizeInBytes": 2718,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.4166666666666665,
-        "wordCount": 725,
-        "characterCount": 1000,
-        "nonWhitespaceCharacterCount": 914,
-        "newlineCount": 46
+        "pageCount": 2.53,
+        "wordCount": 759,
+        "characterCount": 1053,
+        "nonWhitespaceCharacterCount": 961,
+        "newlineCount": 49
       },
       "frontmatter": {
         "aliases": [
@@ -2148,142 +2801,34 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 586,
+      "wordCount": 633,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9533333333333334,
-      "characterCount": 882,
-      "nonWhitespaceCharacterCount": 790,
-      "newlineCount": 40,
-      "readingTimeInMinutes": 1.205698113207547,
-      "linkCount": 4,
+      "pageCount": 2.11,
+      "characterCount": 963,
+      "nonWhitespaceCharacterCount": 864,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 1.3103396226415094,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": [
         "エミリー"
       ],
       "createdDate": 1754835402446,
-      "modifiedDate": 1755147585431,
-      "sizeInBytes": 2145,
+      "modifiedDate": 1755196423151,
+      "sizeInBytes": 2330,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9533333333333334,
-        "wordCount": 586,
-        "characterCount": 882,
-        "nonWhitespaceCharacterCount": 790,
-        "newlineCount": 40
+        "pageCount": 2.11,
+        "wordCount": 633,
+        "characterCount": 963,
+        "nonWhitespaceCharacterCount": 864,
+        "newlineCount": 44
       },
       "frontmatter": {
         "aliases": [
           "エミリー"
         ]
-      }
-    },
-    "Emily Walker/ウォーカー家の宗教観.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 559,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8633333333333333,
-      "characterCount": 770,
-      "nonWhitespaceCharacterCount": 697,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 1.1499245283018869,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754970434410,
-      "modifiedDate": 1755141314969,
-      "sizeInBytes": 1968,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8633333333333333,
-        "wordCount": 559,
-        "characterCount": 770,
-        "nonWhitespaceCharacterCount": 697,
-        "newlineCount": 37
-      }
-    },
-    "America/南北戦争.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 797,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.6566666666666667,
-      "characterCount": 1140,
-      "nonWhitespaceCharacterCount": 1031,
-      "newlineCount": 65,
-      "readingTimeInMinutes": 1.6347924528301887,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754891838317,
-      "modifiedDate": 1755141303372,
-      "sizeInBytes": 2862,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6566666666666667,
-        "wordCount": 797,
-        "characterCount": 1140,
-        "nonWhitespaceCharacterCount": 1031,
-        "newlineCount": 65
-      }
-    },
-    "America/アメリカ魔法界の社会構造.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 409,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3633333333333333,
-      "characterCount": 609,
-      "nonWhitespaceCharacterCount": 527,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.8286415094339623,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754878539218,
-      "modifiedDate": 1755141252414,
-      "sizeInBytes": 1489,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3633333333333333,
-        "wordCount": 409,
-        "characterCount": 609,
-        "nonWhitespaceCharacterCount": 527,
-        "newlineCount": 28
-      }
-    },
-    "America/アメリカ魔法年代記.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 939,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.13,
-      "characterCount": 1372,
-      "nonWhitespaceCharacterCount": 1247,
-      "newlineCount": 72,
-      "readingTimeInMinutes": 1.9613584905660377,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754892680247,
-      "modifiedDate": 1755151763353,
-      "sizeInBytes": 3422,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.13,
-        "wordCount": 939,
-        "characterCount": 1372,
-        "nonWhitespaceCharacterCount": 1247,
-        "newlineCount": 72
       }
     },
     "(Template/エイリアス用.md": {

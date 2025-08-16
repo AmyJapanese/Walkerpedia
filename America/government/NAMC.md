@@ -2,6 +2,9 @@
 aliases:
   - 全米魔法使い市民教会
 ---
+#org/america 
+>[!quote] NAMC公式スローガン（2010年採択）
+魔法を持つことは、アメリカ的である
 # NAMC（National Association of Magical Citizens）
 
 ## 概要

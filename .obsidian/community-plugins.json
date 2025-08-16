@@ -19,5 +19,6 @@
   "copy-note-contents",
   "dataview",
   "colored-tags",
-  "auto-template-trigger"
+  "auto-template-trigger",
+  "obsidian-dialogue-plugin"
 ]

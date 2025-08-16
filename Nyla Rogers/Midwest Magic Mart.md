@@ -6,8 +6,7 @@ aliases:
 > *Magic in Every Meal*  
 > ——食卓に、毎日に、魔法を。
 
-
-#org/mmm
+#location/state/missouri 
 # Midwest Magic Mart（MMM）
 
 ## 概要
