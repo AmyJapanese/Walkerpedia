@@ -345,7 +345,24 @@
     "org/school/luminous/graduate": 1,
     "org/school/lonestar/student": 2,
     "org/school/riverside/graduate": 2,
-    "locatio": 103
+    "locatio": 103,
+    "location/state/illinois": 6,
+    "stub": 104,
+    "org/america/mcd": 2,
+    "wikipedia": 105,
+    "org/america/fbi": 3,
+    "歴史": 106,
+    "軍事": 107,
+    "第二次世界大戦": 108,
+    "組織": 109,
+    "history/ww2": 3,
+    "org/ussr": 13,
+    "org/nazi": 14,
+    "history/real": 4,
+    "wip": 110,
+    "civilwar": 111,
+    "history/civilwar": 5,
+    "org/america/president": 4
   },
   "_version": 3
 }
