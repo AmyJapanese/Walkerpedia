@@ -479,7 +479,10 @@
     "location/state/California": 10,
     "location/state/Missouri": 11,
     "location/state/Missouri/Riverside": 1,
-    "location/state/Missouri/StLouis": 2
+    "location/state/Missouri/StLouis": 2,
+    "location/city/StLouis": 5,
+    "location/city/StLouis/Lantern": 1,
+    "mag": 118
   },
   "_version": 3
 }
