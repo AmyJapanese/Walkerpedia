@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-#reference 
+ #guideline 
 # miscフォルダ運用ルール
 
 ## 基本方針

@@ -1,6 +1,7 @@
 ---
 aliases:
 ---
+#guideline
 # stub / wip 運用ガイドライン
 
 ## 定義

@@ -6,7 +6,7 @@ aliases:
 > *Magic in Every Meal*  
 > ——食卓に、毎日に、魔法を。
 
-#location/state/missouri 
+#location/state/Missouri #location/store 
 # Midwest Magic Mart（MMM）
 
 ## 概要
@@ -34,7 +34,7 @@ aliases:
 
 ## 商品特徴
 - 魔法使い家庭向けは直魔力注入型。
-- [[マジックレス]]家庭向けは魔力カートリッジ型（独自規格・高価格）。
+- [[マジックレス]]家庭向けは[[魔力カートリッジ]]型（独自規格・高価格）。
 - 電化製品を超える処理能力（例：常温保存で菌活動停止、10秒トーストなど）。
 - 安全性重視の設計で、事故防止魔法が標準搭載。
 

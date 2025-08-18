@@ -1,7 +1,12 @@
 ---
 aliases:
 ---
-#org/america/president #race/magicless 
+#org/gov/president #race/magicless #char/named
+
+| <center>←</center> | <center>**現在**</center> | <center>→</center> |
+| ------------------ | ----------------------- | ------------------ |
+| [[ウィリアム・ハーレイ]]         | **デビッド・J・ブラウン**         | [[エドワード・ケーン]]          |
+
 # デビッド・ジョン・ブラウン(David John Brown)
 
 アメリカ合衆国の第46代大統領（在任：2025年–2029年）。  

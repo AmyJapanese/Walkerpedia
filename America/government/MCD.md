@@ -3,7 +3,7 @@ aliases:
   - 魔法犯罪科
   - 魔法警察
 ---
-#org/america/mcd 
+#org/gov/MCD 
 > [!quote]  MCD刑事、スピンオフにて（2019年）
 >  **「へっ、またメディアの妄想か。こっちは地道な捜査だよ」**  
 
@@ -45,7 +45,7 @@ aliases:
 
 ## 装備
 - 魔法抑制手袋（Null Gloves）
-- 魔法銃（Gunmagic対応）
+- [[魔法銃]]（Gunmagic対応）
 - 魔法感知ゴーグル
 - 拘束用エネルギー縄（Binding Arc）
 

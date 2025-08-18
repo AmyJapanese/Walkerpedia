@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-#org/SNS 
+#org
 # Ticktack（チックタック）
 
 **Ticktack** は、ウォーカーバース世界において主流となっている動画配信サイトである。  
