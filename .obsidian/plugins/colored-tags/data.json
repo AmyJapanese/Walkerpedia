@@ -362,7 +362,14 @@
     "wip": 110,
     "civilwar": 111,
     "history/civilwar": 5,
-    "org/america/president": 4
+    "org/america/president": 4,
+    "magic/category": 5,
+    "magic/item": 6,
+    "history/prohibitation": 6,
+    "history/prohibition": 7,
+    "magic/job": 7,
+    "history/northwind": 8,
+    "org/SNS": 15
   },
   "_version": 3
 }

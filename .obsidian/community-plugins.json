@@ -1,6 +1,5 @@
 [
   "editing-toolbar",
-  "obsidian-kanban",
   "supsub",
   "settings-search",
   "obsidian-minimal-settings",
@@ -21,5 +20,7 @@
   "colored-tags",
   "auto-template-trigger",
   "obsidian-dialogue-plugin",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "vault-stats",
+  "homepage"
 ]
