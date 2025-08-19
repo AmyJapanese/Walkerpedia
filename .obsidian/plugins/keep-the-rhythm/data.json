@@ -74,7 +74,7 @@
     "dailyActivity": [
       {
         "date": "2025-08-19",
-        "filePath": "dataview/データベース1~100.md",
+        "filePath": "database/データベース1~100.md",
         "wordCountStart": 251,
         "charCountStart": 2110,
         "changes": [
@@ -88,7 +88,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "dataview/データベース101~200.md",
+        "filePath": "database/データベース101~200.md",
         "wordCountStart": 250,
         "charCountStart": 2095,
         "changes": [],
@@ -148,7 +148,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "dataview/homepage.md",
+        "filePath": "index.md",
         "wordCountStart": 813,
         "charCountStart": 7142,
         "changes": [
