@@ -9,7 +9,7 @@ aliases:
 # NAMC（National Association of Magical Citizens）
 
 ## 概要
-**全米[[魔法使い]]市民協会（National Association of Magical Citizens, NAMC）** は、アメリカ合衆国における魔法使いの権利と地位向上を目的とするロビー団体である。  
+**全米[[魔法使い]]市民協会（National Association of Magical Citizens, NAMC[^1]）** は、アメリカ合衆国における魔法使いの権利と地位向上を目的とするロビー団体である。  
 公式には政治的中立を標榜するが、実際には**民主党寄り**の立場を取っていると広く見られている。  
 [[魔法省|USDM]]（アメリカ魔法省）とは定期的に協議を行い、広報・PR活動を担っている。  
 
@@ -48,3 +48,5 @@ NAMCの広報部門は強力であり、SNS・テレビ・魔法ネットワー�
 - [[テッド・マーソン]]  
 - [[魔法学校]]  
 - [[マジックレス]]
+
+[^1]: カタカナ読みでナムク

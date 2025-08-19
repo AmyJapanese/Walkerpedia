@@ -511,7 +511,17 @@
     "org/group/Northwind/related": 1,
     "org/company/Lantern": 7,
     "location/city/Riverside": 6,
-    "material/misc": 6
+    "material/misc": 6,
+    "item/magic/vehicle": 4,
+    "component": 119,
+    "feature": 120,
+    "feature/transformer": 1,
+    "feature/emitter": 2,
+    "feature/filter": 3,
+    "plugin": 121,
+    "plugin/emitter": 1,
+    "plugin/transformer": 2,
+    "plugin/filter": 3
   },
   "_version": 3
 }
