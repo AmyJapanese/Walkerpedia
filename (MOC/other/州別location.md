@@ -1,11 +1,11 @@
 ---
 aliases:
 ---
-#item #database
+#location/state #database #moc
 ```dataviewjs
 /***** 設定 *****/
 // 必ず末尾スラッシュ（例: "org/gov/"）
-const TAG_PREFIX = "item";
+const TAG_PREFIX = "location/state/";
 
 // 親タグ（"org/gov" 単体）を見出しとして出したいなら true
 const INCLUDE_PARENT_BUCKET = true;
@@ -145,5 +145,4 @@ if (willCountChars && totalCount) {
 } else if (!willCountChars && COUNT_CHARS) {
   dv.paragraph(`※ 該当件数が ${CHAR_LOAD_LIMIT} 件を超えたため、パフォーマンス優先で文字数計測をスキップしました。`);
 }
-
 ```

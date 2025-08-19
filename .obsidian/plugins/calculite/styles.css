@@ -1,0 +1,148 @@
+.mod-rtl .workspace-tab-header[data-type="calculite"] svg.lucide-calculator {
+	transform: unset;
+}
+
+.is-popout-window .calculite,
+.mod-left-split .calculite,
+.hider-status .calculite {
+	padding-bottom: var(--size-4-3, 10px); /* Pre-1.0 compatible */
+}
+
+.calculite {
+	display: grid;
+	direction: ltr;
+	grid-template-rows: repeat(2, min-content);
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: var(--size-4-1, 4px); /* Pre-1.0 compatible */
+	height: 100%;
+}
+
+.calculite > .calculite-subscreen {
+	grid-column: span 4;
+
+	display: flex;
+	align-items: center;
+	justify-content: right;
+	transform-origin: right;
+
+	color: var(--text-faint);
+	font-size: 1em;
+	line-height: normal;
+	white-space: nowrap;
+	user-select: text;
+}
+
+.calculite > .calculite-screen {
+	grid-column: span 4;
+
+	display: flex;
+	align-items: center;
+	justify-content: right;
+	transform-origin: right;
+
+	font-size: 3em;
+	font-weight: 600;
+	line-height: normal;
+	white-space: nowrap;
+	user-select: text;
+}
+
+.calculite > .calculite-invisible {
+	visibility: hidden;
+}
+
+.calculite > .calculite-error {
+	color: var(--text-error);
+}
+
+.calculite > .calculite-copied {
+	animation-name: copied;
+	animation-duration: var(--anim-duration-fast);
+	animation-timing-function: var(--anim-motion-smooth);
+}
+
+.calculite > .calculite-pasted {
+	animation-name: pasted;
+	animation-duration: var(--anim-duration-fast);
+	animation-timing-function: var(--anim-motion-smooth);
+}
+
+@keyframes copied {
+	50% {
+		translate: 0 -0.25em;
+		text-shadow: 0px 0px 10px var(--interactive-accent);
+	}
+}
+
+@keyframes pasted {
+	50% {
+		translate: 0 -0.25em;
+		text-shadow: 0px 0px 10px var(--interactive-accent);
+	}
+}
+
+.calculite > button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	height: unset;
+	min-height: 0;
+	margin: 0;
+}
+
+.calculite > button.calculite-delete {
+	background-color: var(--background-primary);
+	font-size: 1.5em;
+}
+
+.calculite > button.calculite-numeric {
+	background-color: var(--interactive-normal);
+	font-size: 2em;
+}
+
+.calculite > button.calculite-operator {
+	color: var(--text-on-accent);
+	background-color: var(--interactive-accent);
+	font-size: 2em;
+}
+
+body:not(.is-mobile) .calculite > button.calculite-delete:hover {
+	background-color: var(--background-primary-alt);
+}
+
+body:not(.is-mobile) .calculite > button.calculite-numeric:hover {
+	background-color: var(--interactive-hover);
+}
+
+body:not(.is-mobile) .calculite > button.calculite-operator:hover {
+	background-color: var(--interactive-accent-hover);
+}
+
+.calculite > button.calculite-delete:hover:active,
+.calculite > button.calculite-delete.calculite-hotkey-pressed {
+	background-color: color-mix(in srgb, var(--background-primary), black 15%);
+}
+
+.calculite > button.calculite-numeric:hover:active,
+.calculite > button.calculite-numeric.calculite-hotkey-pressed {
+	background-color: color-mix(in srgb, var(--interactive-normal), black 15%);
+}
+
+.calculite > button.calculite-operator:hover:active,
+.calculite > button.calculite-operator.calculite-hotkey-pressed {
+	background-color: color-mix(in srgb, var(--interactive-accent), black 15%);
+}
+
+.calculite-floating .workspace-tab-header-container-inner,
+.calculite-floating .workspace-tab-header-new-tab,
+.calculite-floating .workspace-tab-header-tab-list,
+.calculite-floating .titlebar-button.mod-minimize,
+.calculite-floating .titlebar-button.mod-maximize,
+.calculite-floating .view-header {
+	display: none;
+}
+
+.calculite-floating .is-hidden-frameless:not(.is-fullscreen):not(.mod-macos) .workspace-tabs.mod-top-right-space .workspace-tab-header-container:after {
+	width: var(--header-height);
+}

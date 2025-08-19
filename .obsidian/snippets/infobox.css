@@ -1,0 +1,92 @@
+/* ===== Wikipedia風インフォボックス ===== */
+.infobox {
+  float: right;                   /* 右に回り込み */
+  width: 320px;                   /* 横幅はお好みで */
+  margin: 0 0 1rem 1rem;          /* 本文との余白（左に余白） */
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  font-size: 0.95em;
+  line-height: 1.45;
+  color: var(--text-normal);
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+}
+
+/* 上部タイトル */
+.infobox .infobox-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  text-align: center;
+  padding: .25rem .5rem .35rem;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  margin-bottom: .6rem;
+}
+.infobox .infobox-title small {
+  display: block;
+  font-weight: 600;
+  font-size: .85rem;
+  opacity: .9;
+}
+
+/* 画像とキャプション */
+.infobox .infobox-figure {
+  margin: .5rem 0 .75rem;
+  text-align: center;
+}
+.infobox .infobox-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+.infobox .infobox-figure figcaption {
+  font-size: .85em;
+  opacity: .8;
+  margin-top: .35rem;
+}
+
+/* セクション見出し（青帯っぽく） */
+.infobox .infobox-section {
+  font-weight: 700;
+  text-align: center;
+  padding: .35rem .5rem;
+  margin: .25rem 0 .5rem;
+  border-radius: 4px;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent, #fff); /* 一部テーマ用フォールバック */
+}
+
+/* ラベル/値の2列グリッド */
+.infobox .infobox-grid {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: .25rem .5rem;
+}
+.infobox .label {
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.infobox .value {
+  color: var(--text-normal);
+}
+
+/* 画面が狭いときは本文の下に回り込む */
+@media (max-width: 900px) {
+  .infobox {
+    float: none;
+    width: auto;
+    margin: 0 0 1rem 0;
+  }
+}
+
+/* Live Previewのカーソル表示崩れ対策（必要な場合） */
+.markdown-preview-view .infobox { contain: layout paint; }
+
+/* Stickyさせたい場合（任意）：スクロールで上に貼り付く */
+@media (min-width: 901px) {
+  .infobox { position: sticky; top: 1rem; }
+}

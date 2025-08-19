@@ -29,6 +29,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var import_view = require("@codemirror/view");
+var import_state = require("@codemirror/state");
 var DEFAULT_SETTINGS = {
   enablePopup: true,
   hideTags: true
@@ -49,7 +50,19 @@ var subDecoration = import_view.Decoration.mark({
   }
 });
 var supSubDecorationPlugin = import_view.ViewPlugin.define((view) => {
-  let decorations = import_view.Decoration.none;
+  return {
+    decorations: computeDecorations(view),
+    update(update) {
+      if (update.docChanged || update.viewportChanged) {
+        this.decorations = computeDecorations(view);
+      }
+    }
+  };
+}, {
+  decorations: (v) => v.decorations
+});
+function computeDecorations(view) {
+  const builder = new import_state.RangeSetBuilder();
   const doc = view.state.doc.toString();
   const regex = /<(sup|sub)>(.*?)<\/\1>/g;
   let match;
@@ -62,28 +75,16 @@ var supSubDecorationPlugin = import_view.ViewPlugin.define((view) => {
     const openTagEnd = from + `<${tag}>`.length;
     const closeTagStart = to - `</${tag}>`.length;
     const closeTagEnd = to;
-    decorations = decorations.update({
-      add: [tagDecoration.range(openTagStart, openTagEnd)]
-    });
-    decorations = decorations.update({
-      add: [tagDecoration.range(closeTagStart, closeTagEnd)]
-    });
+    builder.add(openTagStart, openTagEnd, tagDecoration);
+    builder.add(closeTagStart, closeTagEnd, tagDecoration);
     if (tag === "sup") {
-      decorations = decorations.update({
-        add: [supDecoration.range(openTagEnd, closeTagStart)]
-      });
+      builder.add(openTagEnd, closeTagStart, supDecoration);
     } else if (tag === "sub") {
-      decorations = decorations.update({
-        add: [subDecoration.range(openTagEnd, closeTagStart)]
-      });
+      builder.add(openTagEnd, closeTagStart, subDecoration);
     }
   }
-  return {
-    decorations
-  };
-}, {
-  decorations: (v) => v.decorations
-});
+  return builder.finish();
+}
 var SupSubSettingTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
@@ -180,10 +181,14 @@ var SupSubPlugin = class extends import_obsidian.Plugin {
             .cm-sup {
                 vertical-align: super;
                 font-size: smaller;
+                position: relative; /* Improved positioning */
+                display: inline-block; /* Better layout handling */
             }
             .cm-sub {
                 vertical-align: sub;
                 font-size: smaller;
+                position: relative; /* Improved positioning */
+                display: inline-block; /* Better layout handling */
             }
         `;
     this.styleEl = document.createElement("style");
@@ -275,7 +280,7 @@ var SupSubPlugin = class extends import_obsidian.Plugin {
         this.wrapSelection("sup", editor);
       });
       const subButton = document.createElement("button");
-      subButton.innerText = "Sub (\u2089)";
+      subButton.innerText = "Sub (\u2099)";
       subButton.setAttribute("aria-label", "Wrap selected text with subscript");
       subButton.addEventListener("mousedown", (e) => {
         e.preventDefault();

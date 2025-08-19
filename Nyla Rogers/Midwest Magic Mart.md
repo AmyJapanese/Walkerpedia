@@ -1,12 +1,11 @@
 ---
-aliases:
-  - MMM
+aliases: []
 ---
 > [!quote] Midwest Magic Mart スローガン
 > *Magic in Every Meal*  
 > ——食卓に、毎日に、魔法を。
 
-#location/state/Missouri #location/store 
+#location/state/Missouri  #org/company/mmm 
 # Midwest Magic Mart（MMM）
 
 ## 概要

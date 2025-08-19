@@ -1,7 +1,7 @@
 > [!quote] ナイラ・ロジャーズ
 > バズるのは、いつもこっちが大変になる時なんだよね……
 
-#char/family/Rogers 
+#org/company/ticktack #char/family/Rogers/related
 # Rogers' Magic Cookin'（ロジャーズ・マジック・クッキン）
 
 ## 概要

@@ -8,7 +8,6 @@
   "custom-font-loader",
   "obsidian-enhancing-mindmap",
   "obsidian-style-settings",
-  "obsidian-banners",
   "obsidian-image-toolkit",
   "oz-image-plugin",
   "highlightr-plugin",
@@ -18,10 +17,11 @@
   "copy-note-contents",
   "dataview",
   "colored-tags",
-  "auto-template-trigger",
   "obsidian-dialogue-plugin",
   "obsidian-tagfolder",
   "vault-stats",
   "homepage",
-  "footnote-live-preview"
+  "footnote-live-preview",
+  "iron-vault",
+  "auto-template-trigger"
 ]

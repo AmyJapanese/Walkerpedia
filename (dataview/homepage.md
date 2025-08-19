@@ -186,3 +186,8 @@ FROM #stub OR #wip
 SORT file.mtime ASC
 
 ```
+```dataviewjs
+// Show general vault stats
+let s = await window.showStats();
+dv.paragraph(s);
+```
