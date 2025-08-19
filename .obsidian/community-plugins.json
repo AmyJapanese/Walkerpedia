@@ -12,7 +12,6 @@
   "oz-image-plugin",
   "highlightr-plugin",
   "find-unlinked-files",
-  "obsidian-git",
   "tag-wrangler",
   "copy-note-contents",
   "dataview",
@@ -24,5 +23,6 @@
   "footnote-live-preview",
   "iron-vault",
   "auto-template-trigger",
-  "keep-the-rhythm"
+  "keep-the-rhythm",
+  "obsidian-git"
 ]
