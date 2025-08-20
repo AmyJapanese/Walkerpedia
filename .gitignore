@@ -1,10 +1,8 @@
-# OS系ゴミファイル
-.DS_Store
-Thumbs.db
-desktop.ini
+# ドットで始まるやつは全部無視 (.obsidian, .git, .trash など)
+.*
 
-# Obsidianの端末依存・キャッシュのみ無視
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/cache/
+# ただしこのファイル自体は残す
+!.gitignore
+
+# 必要ならGitHub Actionsとかは残す
+!.github/

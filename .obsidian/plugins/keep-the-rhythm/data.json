@@ -54,7 +54,7 @@
           "index": 1,
           "option": "CURRENT_WEEK",
           "unit": "WORD",
-          "calc": "TOTAL"
+          "calc": "AVG"
         },
         {
           "index": 2,
@@ -74,7 +74,7 @@
     "dailyActivity": [
       {
         "date": "2025-08-19",
-        "filePath": "database/データベース1~100.md",
+        "filePath": "(dataview/データベース1~100.md",
         "wordCountStart": 251,
         "charCountStart": 2110,
         "changes": [
@@ -88,7 +88,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "database/データベース101~200.md",
+        "filePath": "(dataview/データベース101~200.md",
         "wordCountStart": 250,
         "charCountStart": 2095,
         "changes": [],
@@ -134,7 +134,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "author's note/contents/20万字記念ノート.md",
+        "filePath": "(author's note/contents/20万字記念ノート.md",
         "wordCountStart": 12,
         "charCountStart": 253,
         "changes": [
@@ -148,7 +148,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "homepage.md",
+        "filePath": "(dataview/homepage.md",
         "wordCountStart": 813,
         "charCountStart": 7142,
         "changes": [
@@ -216,7 +216,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "author's note/pages/１００枚目記念ノート.md",
+        "filePath": "(author's note/pages/１００枚目記念ノート.md",
         "wordCountStart": 440,
         "charCountStart": 728,
         "changes": [],
@@ -224,11 +224,77 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "database/データベース一覧.md",
+        "filePath": "(dataview/データベース一覧.md",
         "wordCountStart": 890,
         "charCountStart": 4258,
         "changes": [],
         "id": 19
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "README.md",
+        "wordCountStart": 245,
+        "charCountStart": 523,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "(dataview/homepage.md",
+        "wordCountStart": 1270,
+        "charCountStart": 7142,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Marco Calderon/エステバン・カルデロン.md",
+        "wordCountStart": 619,
+        "charCountStart": 957,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Marco Calderon/カルデロン家.md",
+        "wordCountStart": 374,
+        "charCountStart": 571,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 7,
+            "c": 7
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Marco Calderon/イザベル・ロサ・カルデロン.md",
+        "wordCountStart": 534,
+        "charCountStart": 801,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 33,
+            "c": 54
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Magic School/overview/教科書補助制度.md",
+        "wordCountStart": 244,
+        "charCountStart": 394,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 21,
+            "c": 32
+          }
+        ],
+        "id": 26
       }
     ]
   }

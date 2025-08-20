@@ -74,7 +74,7 @@
     "dailyActivity": [
       {
         "date": "2025-08-19",
-        "filePath": "(dataview/データベース1~100.md",
+        "filePath": "database/データベース1~100.md",
         "wordCountStart": 251,
         "charCountStart": 2110,
         "changes": [
@@ -88,7 +88,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "(dataview/データベース101~200.md",
+        "filePath": "database/データベース101~200.md",
         "wordCountStart": 250,
         "charCountStart": 2095,
         "changes": [],
@@ -134,7 +134,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "(author's note/contents/20万字記念ノート.md",
+        "filePath": "author's note/contents/20万字記念ノート.md",
         "wordCountStart": 12,
         "charCountStart": 253,
         "changes": [
@@ -148,13 +148,18 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "(dataview/homepage.md",
+        "filePath": "homepage.md",
         "wordCountStart": 813,
         "charCountStart": 7142,
         "changes": [
           {
             "timeKey": "14:45",
             "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:40",
+            "w": 457,
             "c": 0
           }
         ],
@@ -181,6 +186,49 @@
           }
         ],
         "id": 10
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "README.md",
+        "wordCountStart": 245,
+        "charCountStart": 556,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "index.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 49,
+            "c": 73
+          },
+          {
+            "timeKey": "18:20",
+            "w": 240,
+            "c": 1805
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "author's note/pages/１００枚目記念ノート.md",
+        "wordCountStart": 440,
+        "charCountStart": 728,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "database/データベース一覧.md",
+        "wordCountStart": 890,
+        "charCountStart": 4258,
+        "changes": [],
+        "id": 19
       }
     ]
   }
