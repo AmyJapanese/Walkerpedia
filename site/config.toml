@@ -1,3 +1,4 @@
 baseURL = "/"
 languageCode = "ja"
-title = "Walkerverse-wiki"
+title = "Walkerpedia"
+theme = "hugo-book" 
