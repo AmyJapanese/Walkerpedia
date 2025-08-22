@@ -1,10 +1,10 @@
 [build]
-  base    = "site"          # Hugo のルート
-  publish = "site/public"   # 出力先
+  base    = "site"
+  publish = "public"         # ← ここを public に！
   command = "hugo --gc --minify"
 
 [build.environment]
-  HUGO_VERSION = "0.148.2"  # さっき出てたバージョン
+  HUGO_VERSION = "0.148.2"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
