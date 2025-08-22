@@ -1,6 +1,6 @@
 [build]
   base    = "site"
-  publish = "public"         # ← ここを public に！
+  publish = "public"        
   command = "hugo --gc --minify"
 
 [build.environment]
