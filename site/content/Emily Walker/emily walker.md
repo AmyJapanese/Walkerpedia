@@ -1,7 +1,9 @@
 ---
-aliases:
-  - エミリー
+title: エミリー・ウォーカー
+date: 2025-08-23
+draft: false
 ---
+
 #char/family/Walker #org/school/Riverside/student #char/gen/main #char/named/protagonist  
 
 > [!quote] エミリー・ウォーカー
