@@ -521,7 +521,16 @@
     "plugin": 121,
     "plugin/emitter": 1,
     "plugin/transformer": 2,
-    "plugin/filter": 3
+    "plugin/filter": 3,
+    "location/school": 6,
+    "location/school/NewEnglandFour": 1,
+    "org/school/NewEnglandFour": 11,
+    "history/policy": 11,
+    "history/policy/magicschool": 1,
+    "history/era/revolution": 2,
+    "org/school/NewEnglandFive": 12,
+    "org/gov/politics": 8,
+    "location/city/LosAngeles": 7
   },
   "_version": 3
 }

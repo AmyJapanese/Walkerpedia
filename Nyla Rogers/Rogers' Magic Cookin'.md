@@ -2,7 +2,7 @@
 > バズるのは、いつもこっちが大変になる時なんだよね……
 
 #org/company/ticktack #char/family/Rogers/related
-# Rogers' Magic Cookin'（ロジャーズ・マジック・クッキン）
+# Rogers' Magic Cookin'（ロジャーズ・マジック・クッキン、RMC）
 
 ## 概要
 - **ジャンル**：料理系＋事故系エンタメ

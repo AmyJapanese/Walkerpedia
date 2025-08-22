@@ -6,3 +6,8 @@
 
 # 必要ならGitHub Actionsとかは残す
 !.github/
+
+
+# hugo用
+/site/public/
+/site/resources/
