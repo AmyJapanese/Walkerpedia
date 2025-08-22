@@ -1,5 +1,5 @@
 # ドットで始まるやつは全部無視 (.obsidian, .git, .trash など)
-.*
+.trash
 
 # ただしこのファイル自体は残す
 !.gitignore
