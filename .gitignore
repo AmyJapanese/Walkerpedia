@@ -10,4 +10,4 @@
 
 # hugo用
 /site/public/
-/site/resources/
+/site/resources/"`n/site/.obsidian/" 

@@ -1,9 +1,0 @@
-{
-  "outputPath": "All-Vault.md",
-  "includeContent": true,
-  "maxBytesPerNote": 2000000,
-  "excludeFolders": ".obsidian, (Template, (MOC, (dataview, (author's note",
-  "sortMode": "path",
-  "headerLevel": 2,
-  "showFrontmatter": false
-}

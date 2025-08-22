@@ -1,9 +1,0 @@
-{
-  "id": "exclude-random-note",
-  "name": "Exclude Random Note",
-  "version": "0.1.0",
-  "minAppVersion": "1.5.0",
-  "description": "Open random notes while excluding user-specified folders.",
-  "author": "Ami & ChatGPT",
-  "isDesktopOnly": false
-}
