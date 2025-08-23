@@ -1,0 +1,10 @@
+[build]
+  command = "git submodule update --init --recursive && hugo -s site --gc --minify"
+  publish = "site/public"
+
+[build.environment]
+  HUGO_VERSION = "0.148.2"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"

@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "ja"
+title = "SeijoVerse Wiki"
+theme = "hugo-book" 
+
+[taxonomies]
+  tag        = "tags"
+  category   = "categories"
+  character  = "characters"
+  place      = "places"
+  item       = "items"
+  concept    = "concepts"
+  org        = "orgs"
+  source     = "sources"
+  writing    = "writings"

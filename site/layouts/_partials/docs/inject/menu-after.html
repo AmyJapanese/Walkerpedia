@@ -1,0 +1,9 @@
+<!-- layouts/partials/docs/inject/menu-after.html -->
+<section class="book-extra">
+  <h3>最近の更新</h3>
+  <ul>
+    {{ range first 8 ( sort ( where .Site.RegularPages "Type" "in" (slice "docs") ) "Lastmod" "desc" ) }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>

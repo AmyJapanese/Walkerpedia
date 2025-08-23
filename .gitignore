@@ -1,8 +1,14 @@
 # ドットで始まるやつは全部無視 (.obsidian, .git, .trash など)
-.*
+.trash
+.obsidian
 
 # ただしこのファイル自体は残す
 !.gitignore
 
 # 必要ならGitHub Actionsとかは残す
 !.github/
+
+
+# hugo用
+/site/public/
+/site/resources/"`n/site/.obsidian/" 
