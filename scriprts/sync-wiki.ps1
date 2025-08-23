@@ -1,8 +1,7 @@
-# --- ここだけ直す -------------------------------------------------
-$VaultRel = "emily-walker"        # ← ここを vault に
-$SrcRel   = "Wiki"         # ← ノートの元フォルダ（例：vault/Wiki）。丸ごとなら "."
-$DstRel   = "content\wiki" # ← 出力先（site/content/wiki）
-# ------------------------------------------------------------------
+# vaultの場所指定
+$VaultRel = "emily-walker"        
+$SrcRel   = "Wiki"         
+$DstRel   = "content\wiki"
 
 $ErrorActionPreference = "Stop"
 $repoRoot = Split-Path -Parent $PSScriptRoot      # scripts/ の1つ上＝リポジトリルート
