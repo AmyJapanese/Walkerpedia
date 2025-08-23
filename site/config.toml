@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ja"
-title = "Walkerpedia"
+title = "SeijoVerse Wiki"
 theme = "hugo-book" 
 
 [taxonomies]
