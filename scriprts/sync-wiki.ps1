@@ -1,5 +1,5 @@
 # --- ここだけ直す -------------------------------------------------
-$VaultRel = "vault"        # ← ここを vault に
+$VaultRel = "emily-walker"        # ← ここを vault に
 $SrcRel   = "Wiki"         # ← ノートの元フォルダ（例：vault/Wiki）。丸ごとなら "."
 $DstRel   = "content\wiki" # ← 出力先（site/content/wiki）
 # ------------------------------------------------------------------
