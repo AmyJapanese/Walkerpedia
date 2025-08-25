@@ -7,7 +7,7 @@
       "JAPANESE",
       "KOREAN"
     ],
-    "dailyWritingGoal": "1000",
+    "dailyWritingGoal": "5000",
     "startOfTheWeek": "SUNDAY",
     "heatmapNavigation": true,
     "heatmapConfig": {
@@ -71,8 +71,7 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2025-08-20",
-      "2025-08-22"
+      "2025-08-20"
     ],
     "dailyActivity": [
       {
@@ -622,7 +621,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "America/politics/アメリカの二大政党.md",
+        "filePath": "America/government/アメリカの二大政党.md",
         "wordCountStart": 798,
         "charCountStart": 1449,
         "changes": [],
@@ -630,7 +629,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "NAMC/NAMC.md",
+        "filePath": "America/government/NAMC.md",
         "wordCountStart": 821,
         "charCountStart": 1265,
         "changes": [],
@@ -772,7 +771,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "history/event/北風戦争.md",
+        "filePath": "history/incident/北風戦争.md",
         "wordCountStart": 849,
         "charCountStart": 1182,
         "changes": [],
@@ -780,7 +779,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "history/event/魔法使い徴兵令.md",
+        "filePath": "history/incident/魔法使い徴兵令.md",
         "wordCountStart": 447,
         "charCountStart": 674,
         "changes": [
@@ -1752,7 +1751,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "NAMC/NAMC.md",
+        "filePath": "America/government/NAMC.md",
         "wordCountStart": 821,
         "charCountStart": 1265,
         "changes": [],
@@ -1760,7 +1759,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "America/politics/アメリカの二大政党.md",
+        "filePath": "America/government/アメリカの二大政党.md",
         "wordCountStart": 798,
         "charCountStart": 1449,
         "changes": [],
@@ -1905,7 +1904,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "history/event/北風戦争.md",
+        "filePath": "history/incident/北風戦争.md",
         "wordCountStart": 849,
         "charCountStart": 1182,
         "changes": [],
@@ -1913,7 +1912,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "history/event/魔法使い徴兵令.md",
+        "filePath": "history/incident/魔法使い徴兵令.md",
         "wordCountStart": 500,
         "charCountStart": 755,
         "changes": [],
@@ -2814,13 +2813,7 @@
         "filePath": "(dataview/homepage.md",
         "wordCountStart": 1270,
         "charCountStart": 7142,
-        "changes": [
-          {
-            "timeKey": "14:20",
-            "w": 0,
-            "c": 0
-          }
-        ],
+        "changes": [],
         "id": 342
       },
       {
@@ -2965,440 +2958,19 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "(dataview/データベース1~100.md",
-        "wordCountStart": 395,
-        "charCountStart": 2116,
+        "filePath": "Nyla Rogers/Ticktack.md",
+        "wordCountStart": 396,
+        "charCountStart": 592,
         "changes": [],
-        "id": 368
+        "id": 356
       },
       {
         "date": "2025-08-22",
-        "filePath": "history/misc/ウィッチブリュー.md",
-        "wordCountStart": 661,
-        "charCountStart": 1053,
+        "filePath": "Nyla Rogers/ジョシュア・ロジャーズ.md",
+        "wordCountStart": 791,
+        "charCountStart": 1274,
         "changes": [],
-        "id": 369
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/city/シカゴ.md",
-        "wordCountStart": 882,
-        "charCountStart": 1228,
-        "changes": [
-          {
-            "timeKey": "13:20",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 370
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/States/イリノイ州.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:20",
-            "w": 47,
-            "c": 78
-          },
-          {
-            "timeKey": "13:35",
-            "w": 296,
-            "c": 510
-          }
-        ],
-        "id": 371
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/government/MCD.md",
-        "wordCountStart": 857,
-        "charCountStart": 1404,
-        "changes": [],
-        "id": 372
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "NAMC/NAMC.md",
-        "wordCountStart": 821,
-        "charCountStart": 1265,
-        "changes": [
-          {
-            "timeKey": "13:20",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 373
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "NAMC/魔法使いの日.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:20",
-            "w": 6,
-            "c": 28
-          },
-          {
-            "timeKey": "13:35",
-            "w": 13,
-            "c": 24
-          }
-        ],
-        "id": 374
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "Calisto is Fixer/序章/１　地下オークション.md",
-        "wordCountStart": 1514,
-        "charCountStart": 1908,
-        "changes": [],
-        "id": 375
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "Calisto is Fixer/序章/４　勧誘.md",
-        "wordCountStart": 132,
-        "charCountStart": 179,
-        "changes": [
-          {
-            "timeKey": "13:30",
-            "w": 23,
-            "c": 34
-          }
-        ],
-        "id": 376
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "Emily Walker 1/一年目/８月/５　杖選び.md",
-        "wordCountStart": 1252,
-        "charCountStart": 1628,
-        "changes": [
-          {
-            "timeKey": "13:30",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 377
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/politics/アメリカの二大政党.md",
-        "wordCountStart": 798,
-        "charCountStart": 1449,
-        "changes": [
-          {
-            "timeKey": "13:35",
-            "w": 0,
-            "c": 2
-          }
-        ],
-        "id": 378
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/government/世界魔法連合.md",
-        "wordCountStart": 746,
-        "charCountStart": 1076,
-        "changes": [],
-        "id": 379
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/government/連邦捜査局.md",
-        "wordCountStart": 167,
-        "charCountStart": 365,
-        "changes": [],
-        "id": 380
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/president/historical/エイブラハム・リンカーン.md",
-        "wordCountStart": 299,
-        "charCountStart": 570,
-        "changes": [],
-        "id": 381
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/president/original/ウィリアム・ハーレイ.md",
-        "wordCountStart": 470,
-        "charCountStart": 858,
-        "changes": [],
-        "id": 382
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/politics/共和党.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:40",
-            "w": 301,
-            "c": 541
-          }
-        ],
-        "id": 383
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/president/original/エドワード・ケーン.md",
-        "wordCountStart": 404,
-        "charCountStart": 623,
-        "changes": [
-          {
-            "timeKey": "13:40",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 384
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/politics/民主党.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:40",
-            "w": 381,
-            "c": 647
-          }
-        ],
-        "id": 385
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/event/奴隷解放宣言.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:40",
-            "w": 384,
-            "c": 640
-          },
-          {
-            "timeKey": "13:45",
-            "w": -20,
-            "c": -27
-          }
-        ],
-        "id": 386
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/wars/人民魔法連隊.md",
-        "wordCountStart": 772,
-        "charCountStart": 1189,
-        "changes": [
-          {
-            "timeKey": "13:40",
-            "w": 1,
-            "c": 4
-          }
-        ],
-        "id": 387
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/event/北風戦争.md",
-        "wordCountStart": 849,
-        "charCountStart": 1182,
-        "changes": [
-          {
-            "timeKey": "13:45",
-            "w": -12,
-            "c": -12
-          }
-        ],
-        "id": 388
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/event/魔法使い徴兵令.md",
-        "wordCountStart": 500,
-        "charCountStart": 755,
-        "changes": [
-          {
-            "timeKey": "13:45",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 389
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/org/魔法ギャング.md",
-        "wordCountStart": 716,
-        "charCountStart": 1101,
-        "changes": [],
-        "id": 390
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/org/魔法犯罪課.md",
-        "wordCountStart": 448,
-        "charCountStart": 792,
-        "changes": [],
-        "id": 391
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/parson/ハインリヒ・ヒムラー.md",
-        "wordCountStart": 538,
-        "charCountStart": 928,
-        "changes": [],
-        "id": 392
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/parson/ヨシフ・スターリン.md",
-        "wordCountStart": 181,
-        "charCountStart": 411,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 11,
-            "c": 16
-          }
-        ],
-        "id": 393
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/wars/ヴァルキューレ師団.md",
-        "wordCountStart": 563,
-        "charCountStart": 778,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 11,
-            "c": 14
-          }
-        ],
-        "id": 394
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/アメリカ魔法年代記.md",
-        "wordCountStart": 1214,
-        "charCountStart": 1684,
-        "changes": [],
-        "id": 395
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/wars/スターリングラード.md",
-        "wordCountStart": 519,
-        "charCountStart": 869,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 11,
-            "c": 14
-          }
-        ],
-        "id": 396
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "history/wars/南北戦争.md",
-        "wordCountStart": 819,
-        "charCountStart": 1148,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 397
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/Luminous/ルミナス・アーツ・アカデミー.md",
-        "wordCountStart": 1131,
-        "charCountStart": 1667,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 2,
-            "c": 4
-          },
-          {
-            "timeKey": "13:55",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 398
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/Luminous/ルミナス魔法学校.md",
-        "wordCountStart": 775,
-        "charCountStart": 1172,
-        "changes": [
-          {
-            "timeKey": "13:55",
-            "w": 4,
-            "c": 8
-          }
-        ],
-        "id": 399
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/テッド・マーソン.md",
-        "wordCountStart": 819,
-        "charCountStart": 1277,
-        "changes": [
-          {
-            "timeKey": "14:05",
-            "w": 2,
-            "c": 4
-          }
-        ],
-        "id": 400
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/テッド・マーソンの崖越え.md",
-        "wordCountStart": 457,
-        "charCountStart": 697,
-        "changes": [],
-        "id": 401
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/States/カリフォルニア州.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:50",
-            "w": 346,
-            "c": 552
-          },
-          {
-            "timeKey": "13:55",
-            "w": 0,
-            "c": 1
-          }
-        ],
-        "id": 402
+        "id": 357
       },
       {
         "date": "2025-08-22",
@@ -3406,278 +2978,90 @@
         "wordCountStart": 561,
         "charCountStart": 848,
         "changes": [],
-        "id": 403
+        "id": 358
       },
       {
         "date": "2025-08-22",
-        "filePath": "America/city/ロサンゼルス.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:55",
-            "w": 350,
-            "c": 600
-          }
-        ],
-        "id": 404
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/States/ミズーリ州.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "13:55",
-            "w": 230,
-            "c": 408
-          }
-        ],
-        "id": 405
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/city/セントルイス.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:00",
-            "w": 371,
-            "c": 595
-          }
-        ],
-        "id": 406
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "Riverside/リバーサイド魔法学校.md",
-        "wordCountStart": 859,
-        "charCountStart": 1265,
+        "filePath": "Emily Walker/ウォーカー家の宗教観.md",
+        "wordCountStart": 885,
+        "charCountStart": 1186,
         "changes": [],
-        "id": 407
+        "id": 359
       },
       {
         "date": "2025-08-22",
-        "filePath": "hollywood/荒野の呪文.md",
-        "wordCountStart": 428,
-        "charCountStart": 654,
+        "filePath": "Emily Walker/ウォーカー家.md",
+        "wordCountStart": 587,
+        "charCountStart": 892,
         "changes": [],
-        "id": 408
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/魔法演出家.md",
-        "wordCountStart": 378,
-        "charCountStart": 568,
-        "changes": [],
-        "id": 409
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "hollywood/魔法俳優.md",
-        "wordCountStart": 378,
-        "charCountStart": 557,
-        "changes": [],
-        "id": 410
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/ウィンステック.md",
-        "wordCountStart": 577,
-        "charCountStart": 968,
-        "changes": [
-          {
-            "timeKey": "14:05",
-            "w": 25,
-            "c": 35
-          },
-          {
-            "timeKey": "14:10",
-            "w": 13,
-            "c": 16
-          }
-        ],
-        "id": 411
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/ガレージ大学.md",
-        "wordCountStart": 488,
-        "charCountStart": 736,
-        "changes": [],
-        "id": 412
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/ケイ・サカモト.md",
-        "wordCountStart": 650,
-        "charCountStart": 971,
-        "changes": [
-          {
-            "timeKey": "14:15",
-            "w": 13,
-            "c": 22
-          }
-        ],
-        "id": 413
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/バックアイ魔法工科大学附属学院.md",
-        "wordCountStart": 572,
-        "charCountStart": 866,
-        "changes": [],
-        "id": 414
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/サミュエル・ウィンスロー.md",
-        "wordCountStart": 860,
-        "charCountStart": 1282,
-        "changes": [
-          {
-            "timeKey": "14:15",
-            "w": 4,
-            "c": 8
-          }
-        ],
-        "id": 415
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/States/オハイオ州.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:05",
-            "w": 329,
-            "c": 544
-          },
-          {
-            "timeKey": "14:10",
-            "w": 4,
-            "c": 9
-          }
-        ],
-        "id": 416
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "(author's note/無題のファイル.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:10",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 417
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "(author's note/pages/２００枚目記念ノート.md",
-        "wordCountStart": 561,
-        "charCountStart": 828,
-        "changes": [
-          {
-            "timeKey": "14:10",
-            "w": -152,
-            "c": -176
-          }
-        ],
-        "id": 418
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "(dataview/データベース一覧.md",
-        "wordCountStart": 890,
-        "charCountStart": 4258,
-        "changes": [],
-        "id": 419
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "(dataview/データベース201~200.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:10",
-            "w": 382,
-            "c": 2095
-          }
-        ],
-        "id": 420
+        "id": 360
       },
       {
         "date": "2025-08-22",
         "filePath": "(dataview/データベース101~200.md",
         "wordCountStart": 382,
         "charCountStart": 2095,
+        "changes": [],
+        "id": 361
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "(dataview/データベース1~100.md",
+        "wordCountStart": 395,
+        "charCountStart": 2116,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Mattias Becker/マティアス・ベッカー.md",
+        "wordCountStart": 432,
+        "charCountStart": 656,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "BfM/連邦魔法省.md",
+        "wordCountStart": 667,
+        "charCountStart": 1093,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "BfM/ペーター・ミュラー.md",
+        "wordCountStart": 548,
+        "charCountStart": 844,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "BfM/クラウディア・シュミット.md",
+        "wordCountStart": 562,
+        "charCountStart": 851,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Mattias Becker/クラウス・ベッカー.md",
+        "wordCountStart": 458,
+        "charCountStart": 704,
         "changes": [
           {
-            "timeKey": "14:10",
-            "w": 13,
-            "c": 19
-          }
-        ],
-        "id": 421
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/スーザン・サカモト.md",
-        "wordCountStart": 276,
-        "charCountStart": 450,
-        "changes": [],
-        "id": 422
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "K. Sakamoto/自動筆記羽ペン.md",
-        "wordCountStart": 429,
-        "charCountStart": 650,
-        "changes": [],
-        "id": 423
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "Lonestar/クーパー・デリング.md",
-        "wordCountStart": 481,
-        "charCountStart": 763,
-        "changes": [],
-        "id": 424
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "America/States/テキサス州.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "14:15",
-            "w": 385,
-            "c": 612
+            "timeKey": "13:15",
+            "w": 1,
+            "c": 3
           },
           {
-            "timeKey": "14:20",
-            "w": 6,
-            "c": 12
+            "timeKey": "13:20",
+            "w": 1,
+            "c": 11
           }
         ],
-        "id": 425
-      },
-      {
-        "date": "2025-08-22",
-        "filePath": "magic/catalyst/杖文化.md",
-        "wordCountStart": 670,
-        "charCountStart": 999,
-        "changes": [],
-        "id": 430
+        "id": 367
       }
     ]
   }

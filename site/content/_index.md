@@ -5,7 +5,7 @@ draft: false
 weight: 0
 ---
 
-## SeijoVerse wiki
+# SeijoVerse wiki
 
 **星城亜美** が執筆しているオリジナル小説群の設定資料集です。  
 Obsidianを用いて構築しており、現在は **30万字以上の設定資料** を収録しています。  
