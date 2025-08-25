@@ -1,0 +1,8 @@
+{
+  "name": "walkerverse-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo -s site --gc --minify"
+  }
+}
