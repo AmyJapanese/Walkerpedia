@@ -1,4 +1,4 @@
 baseURL = 'https://seijoverse-wiki.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'ja-JP'
 title = 'SeijoVerse Wiki'
 theme = "hugo-book"
